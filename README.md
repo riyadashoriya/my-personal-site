@@ -5,7 +5,7 @@
 </p>
 
 [![Build Status](https://travis-ci.org/lgcolella/gatsby-starter-developer-blog.svg?branch=master)](https://travis-ci.org/lgcolella/gatsby-starter-developer-blog)
-[![Maintainability](https://api.codeclimate.com/v1/badges/a682a525a8c3f78b625f/maintainability)](https://codeclimate.com/github/lgcolella/gatsby-starter-developer-blog/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a682a525a8c3f78b625f/maintainability)](https://codeclimate.com/github/riyadashoriya/my-personal-site)
 
 ## Summary
 
@@ -57,10 +57,16 @@
 
 ## 📓 Guide
 
-* [How add a post](#How-add-a-post)
-* [How edit metatags of a post](#How-edit-metatags-of-a-post)
-* [How add a translated version of a post](#How-add-a-translated-version-of-a-post)
-* [How change theme](#how-change-theme)
+- [Summary](#summary)
+- [🔧 Stack](#%F0%9F%94%A7-stack)
+- [🔌 Features](#%F0%9F%94%8C-features)
+- [📓 Guide](#%F0%9F%93%93-guide)
+  - [How add a post](#how-add-a-post)
+  - [How edit metatags of a post](#how-edit-metatags-of-a-post)
+  - [How add a translated version of a post](#how-add-a-translated-version-of-a-post)
+  - [How change theme](#how-change-theme)
+- [📃 Credits](#%F0%9F%93%83-credits)
+- [🤝 How contribute](#%F0%9F%A4%9D-how-contribute)
 
 ### How add a post
 
