@@ -13,7 +13,7 @@ const IndexPage = ({ data }) => (
   <Layout>
     <SEO title="Home" description={Config.siteDescription} path="" />
     <PostList posts={data.allMarkdownRemark.edges} />
-    <ArchivePagination nextPage={2} />
+    {/*<ArchivePagination nextPage={2} />*/}
   </Layout>
 )
 

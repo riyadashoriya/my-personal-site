@@ -1,10 +1,10 @@
 
 module.exports = {
   pathPrefix: '/gatsby-starter-developer-blog',
-  siteUrl: 'https://lgcolella.github.io',
-  siteTitle: 'Luigi Colella',
-  siteDescription: 'Logbook of a software developer',
-  author: 'lcolella',
+  siteUrl: 'https://riyadashoriya.com',
+  siteTitle: 'Riya Dashoriya',
+  siteDescription: 'All things Riya',
+  author: 'rdashoriya',
   postsForArchivePage: 3,
   defaultLanguage: 'en',
   disqusScript: 'https://luigi-colella.disqus.com/embed.js',
@@ -16,9 +16,9 @@ module.exports = {
     archive: 'archive'
   },
   social: {
-    github: 'https://github.com/lgcolella',
-    linkedin: '',
-    rss: '/rss.xml'
+    github: 'https://github.com/riyadashoriya',
+    linkedin: 'https://linkedin.com/in/riyadashoriya',
+    twitter: 'https://twitter.com/ReeyahSDasoriya'
   },
   tags: {
     angular: {

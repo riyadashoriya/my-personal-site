@@ -22,24 +22,30 @@ const About = ({ data: { profilePhoto, skillIcons, toolIcons } }) => {
           <Img fluid={profilePhoto.childImageSharp.fluid} />
         </div>
         <div className={style.content}>
-          <h1>Hi, I'm Luigi!</h1>
+          <h1>Hi, I'm Riya!</h1>
           <h2>Software Developer</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
-            cursus venenatis arcu, cursus pretium enim lacinia nec. Duis viverra
-            sagittis neque. Fusce non luctus urna. Vivamus suscipit metus ac
-            posuere egestas. Nunc a pulvinar purus. Vivamus nisi mi, fringilla
-            quis lacus et, sagittis mollis massa. Cras tempus massa quis
-            lobortis laoreet. Pellentesque metus odio, sagittis nec venenatis
-            non, maximus congue eros. Suspendisse pellentesque purus sit amet
-            ante commodo, et molestie mauris aliquet. Proin non nibh libero.
-            Fusce at nulla euismod, condimentum augue quis, convallis justo.
+          Riya Dashoriya (@ReeyahSDasoriya) is a Senior Software Engineer at <a href="https://www.solutionreach.com/" target="_blank" className={style.talkLinks}>Solutionreach</a>, Salt Lake City.
+          She is also a <a href="https://www.meetup.com/GDG-Salt-Lake/" target="_blank" className={style.talkLinks}>Google Developers Group Salt Lake</a> co-organizer and WTM Ambassador. Riya has veritable curiosity and
+          passion to dig into things and find out how they work. Her current favorites in tech are <span className={style.fav}>React,
+          Accessibility and Actions on Google Assistant.</span>
+          <br />Code, Coffee, Cake, Chocolates, Cricket, Coke is everything she dreams about.
+          If not coding, she is mostly baking, sleeping or dancing.
           </p>
           <br />
           <h2>Skills</h2>
           <ImageList edges={skillIcons.edges} />
-          <h2>Tools</h2>
-          <ImageList edges={toolIcons.edges} />
+
+           {/*  <h2>Tools</h2>
+           <ImageList edges={toolIcons.edges} />
+           */}
+          <h2>Upcoming talks/events</h2>
+          <ul>
+            <li>Event host for Women Techmakers Salt Lake's International Women's Day conference on March 23, 2019. <a href="http://wtmslc.eventbrite.com/" className={style.talkLinks} target="_blank">RSVP here</a></li>
+            <li>Speaking in Denver on Actions on Google Assistant for GDG Denver meetup. <a href="https://www.meetup.com/GDG-Denver/events/259164156/" className={style.talkLinks} target="_blank">RSVP here</a></li>
+            <li>Speaking for Women Tech Council's SheTech Explorer day on April 9, 2019. <a href="http://shetechexplorer.com/" className={style.talkLinks} target="_blank">More details</a></li>
+            <li>Speaking at Open West Conference on April 10-12: - Why's and How's of #a11y and Make Google Assistant Do The Thing For You Workshop. <a href="https://openwest.org/" className={style.talkLinks} target="_blank"> Get your tickets now!</a></li>
+          </ul>
         </div>
       </div>
     </Layout>
@@ -94,7 +100,7 @@ ImageList.propTypes = {
 
 export const query = graphql`
   {
-    profilePhoto: file(name: { eq: "profile-photo" }) {
+    profilePhoto: file(name: { eq: "riya_profile_photo" }) {
       childImageSharp {
         fluid(maxWidth: 800) {
           ...GatsbyImageSharpFluid_tracedSVG
