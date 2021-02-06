@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Blog by Riya',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Software Engineer @ Quizlet. GDG & WTM San Francisco, Cloud San Francisco Organizer',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Riya Dashoriya (Reeyah S Dasoriya)',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Software Engineer @ Quizlet. GDG & WTM San Francisco, Cloud San Francisco Organizer',
     contacts: {
       email: 'riyadashoriya@gmail.com',
       facebook: 'riyadashoriya',
