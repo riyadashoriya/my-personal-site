@@ -1,14 +1,14 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/about-me.jpg"
 ---
 
 Riya Dashoriya is a Software Engineer at Quizlet with an innate love to solve problems through technology. Her dedication, passion and curiosity has helped her execute several key projects, demonstrating leadership and team player abilities. In her spare time, Riya likes to travel and spend time with family. Always looking for avenues to mentor and empower others, Riya has a passion for accessibility and access to education to make the world a better place.
 
 Riya holds a Masters of Science in Information Systems from The University of Utah. She is a Women Techmakers Ambassador and GDG Organizer for San Francisco and Cloud San Francisco chapters.
 
-![Riya Dashoriya Headshot.](/media/image-2.jpg)
+![Riya Dashoriya Headshot.](/media/about-me.jpg)
 
 ## Just few things
 
@@ -17,7 +17,7 @@ Riya holds a Masters of Science in Information Systems from The University of Ut
 - Contributed to Open Source project, [Hammock](https://github.com/quizlet/hammock)
 - Steering committee of [International Women's Day North America Summit 2021](https://events.withgoogle.com/international-womens-day-iwd-north-america-summit-2021/)
 - Mentoring people for career in tech
-- Oracle Certified Associate, Java SE 8 Programmer
+- [Oracle Certified Associate, Java SE 8 Programmer](https://www.youracclaim.com/badges/3b44ec95-e4a8-41a0-97c0-04e7fef5c79e/linked_in_profile)
 - Front End Developer Nanodegree by Udacity. Recipient of Grow with Google challenge scholarship
 
 ### Work History
