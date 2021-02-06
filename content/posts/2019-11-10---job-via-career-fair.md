@@ -9,7 +9,7 @@ tags:
   - "Career Fair"
   - "Jobseeker"
 description: "Getting a job via career fair is hard and no fun. This article explains how to prepare yourself for your next career fair."
-socialImage: "/media/career-fair-everyone-gets-a-job.jpg"
+socialImage: "/media/career-fair-everyone-gets-a-job.jpeg"
 ---
 
 <div style="text-align: justify">
