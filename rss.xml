@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Riya]]></title><description><![CDATA[Software Engineer @ Quizlet. GDG & WTM San Francisco, Cloud San Francisco Organizer]]></description><link>https://lumen.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 26 Aug 2022 15:23:58 GMT</lastBuildDate><item><title><![CDATA[So what happened 2 years ago?]]></title><description><![CDATA[Recap of Women Techmakers Salt Lake City's International Women's Day 2019 Conference that changed my life!]]></description><link>https://lumen.netlify.com/posts/iwd-2021</link><guid isPermaLink="false">https://lumen.netlify.com/posts/iwd-2021</guid><pubDate>Wed, 10 Mar 2021 00:00:00 GMT</pubDate><content:encoded>&lt;div style=&quot;text-align: justify&quot;&gt;
+Almost 2 years ago, on March 23, 2019, I organized Women Techmakers Salt Lake City&apos;s International Women&apos;s Day conference. It was a bittersweet moment for me. I was happy knowing that I was making history with this event. Sad because I knew this would be my last event in Salt Lake City. I was moving to San Francisco in the coming month, and I had to break it to the rest of the organizers that day, who became my family!
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1f28c18233317ac710949f0ae03b36c5/430a7/iwd-2019.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABXqR0yuJon//EABgQAQEBAQEAAAAAAAAAAAAAAAIBAwAh/9oACAEBAAEFAi8h12z53Oo8BHb5f//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAMBAQAAAAAAAAAAAAAAAAAQETJh/9oACAEBAAY/ApKZMKcX/8QAGhAAAwEBAQEAAAAAAAAAAAAAAAERIWFBgf/aAAgBAQABPyFC69Ip1p66i+UfTTg8N0bEf//aAAwDAQACAAMAAAAQiN//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxAn/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEx/9oACAECAQE/EMR//8QAGxABAQADAAMAAAAAAAAAAAAAAREAIXExUcH/2gAIAQEAAT8QKCA3AHmsbT4m6T1iZMAJHfuE4rlaTYPmTNFWDM//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/1f28c18233317ac710949f0ae03b36c5/8ac56/iwd-2019.webp 240w,
+/static/1f28c18233317ac710949f0ae03b36c5/d3be9/iwd-2019.webp 480w,
+/static/1f28c18233317ac710949f0ae03b36c5/e46b2/iwd-2019.webp 960w,
+/static/1f28c18233317ac710949f0ae03b36c5/f992d/iwd-2019.webp 1440w,
+/static/1f28c18233317ac710949f0ae03b36c5/882b9/iwd-2019.webp 1920w,
+/static/1f28c18233317ac710949f0ae03b36c5/ab50d/iwd-2019.webp 4898w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/1f28c18233317ac710949f0ae03b36c5/09b79/iwd-2019.jpg 240w,
+/static/1f28c18233317ac710949f0ae03b36c5/7cc5e/iwd-2019.jpg 480w,
+/static/1f28c18233317ac710949f0ae03b36c5/6a068/iwd-2019.jpg 960w,
+/static/1f28c18233317ac710949f0ae03b36c5/644c5/iwd-2019.jpg 1440w,
+/static/1f28c18233317ac710949f0ae03b36c5/0f98f/iwd-2019.jpg 1920w,
+/static/1f28c18233317ac710949f0ae03b36c5/430a7/iwd-2019.jpg 4898w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/1f28c18233317ac710949f0ae03b36c5/6a068/iwd-2019.jpg&quot;
+            alt=&quot;Oracle Certified Associate Java Programmer Badge&quot;
+            title=&quot;Oracle Certified Associate Java Programmer Badge&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;did-things-go-wrong&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#did-things-go-wrong&quot; aria-label=&quot;did things go wrong permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Did things go wrong?&lt;/h2&gt;
+&lt;p&gt;Of course, yes! The swag got delivered to the billing address instead of the shipping address. We also had a speaker cancellation before the event. Biggest of all, once I used non-inclusive promo materials for the event. #neverever&lt;/p&gt;
+&lt;h2 id=&quot;where-did-it-all-go-right&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#where-did-it-all-go-right&quot; aria-label=&quot;where did it all go right permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Where did it all go right:&lt;/h2&gt;
+&lt;h3 id=&quot;speakers&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#speakers&quot; aria-label=&quot;speakers permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Speakers!!!&lt;/h3&gt;
+&lt;p&gt;I got to hear from excellent speakers like &lt;a href=&quot;https://www.linkedin.com/in/saradansiejones/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Sara Jones&lt;/a&gt; (CEO of Inclusion Pro, Co-founder and COO of Women Tech Council), &lt;a href=&quot;https://www.linkedin.com/in/alicia-garcia-2150928/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Alicia Garcia&lt;/a&gt; (Executive VP People &amp;#x26; Places at MasterControl), &lt;a href=&quot;https://www.linkedin.com/in/amandajofisher/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Amanda Fisher&lt;/a&gt; (Product Manager at Beta Bionics), &lt;a href=&quot;https://www.linkedin.com/in/eshaaniishaa/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Eshaani Esha&lt;/a&gt; (Senior Salesforce Administrator - DevOps at Western Governors University), &lt;a href=&quot;https://www.linkedin.com/in/jennyheiner/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Jenny Heiner&lt;/a&gt; (UX/UI Designer @ Divvy Inc), &lt;a href=&quot;https://www.linkedin.com/in/karenysun/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Karen Sun&lt;/a&gt; (CTO at Dwello), &lt;a href=&quot;https://www.linkedin.com/in/karen-vazquez-hernandez/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Karen Vazques&lt;/a&gt; (Learning Experience Designer at WGU), &lt;a href=&quot;https://www.linkedin.com/in/michellekuo/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Michelle Kuo&lt;/a&gt; (Managing Partner at JumpSearch Recruiting), &lt;a href=&quot;https://www.linkedin.com/in/miriah-peterson-35649b5b/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Miriah Peterson&lt;/a&gt; (Data Engineer at Weave), &lt;a href=&quot;https://www.linkedin.com/in/oindrilla-sen/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Oindrilla Sen&lt;/a&gt; (Software Engineer II at Western Governors University), &lt;a href=&quot;https://www.linkedin.com/in/sarah-baughman-8399b085/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Sarah Baughman&lt;/a&gt; (Full Stack Software Engineer at Openforce), &lt;a href=&quot;https://www.linkedin.com/in/tanei-atagi-henry-39546b133/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Tanei Atagi Henry&lt;/a&gt; (Founder, Provo Girls Summit) and &lt;a href=&quot;https://www.linkedin.com/in/tejaswinivaidya/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Tejaswini Vaidya&lt;/a&gt; (Sr Director - Financial Services at InComm)! &lt;/p&gt;
+&lt;p&gt;Their talks influenced me. We gave opportunity to many first time speakers and there was no way you could tell if they were first timers or a seasoned speaker. :)&lt;/p&gt;
+&lt;p&gt;Note: Since the time they spoke at IWD conference, some were promoted or changed jobs. Their job association mentioned here is the most recent, as per LinkedIn.&lt;/p&gt;
+&lt;h3 id=&quot;supportive-sponsors&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#supportive-sponsors&quot; aria-label=&quot;supportive sponsors permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Supportive Sponsors!!!&lt;/h3&gt;
+&lt;p&gt;Without 💰 this event would not have been possible. Big shoutout to the &lt;a href=&quot;https://www.womentechmakers.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Women Techmakers program @ Google&lt;/a&gt;, &lt;a href=&quot;https://getdivvy.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Divvy&lt;/a&gt;, &lt;a href=&quot;https://www.mastercontrol.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;MasterControl&lt;/a&gt;, &lt;a href=&quot;https://www.getweave.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Weave&lt;/a&gt;, &lt;a href=&quot;https://jane.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Jane.com&lt;/a&gt; for supporting the event financially. We were able to provide childcare facility, mothers room, many swags and giveaways.&lt;/p&gt;
+&lt;h3 id=&quot;iamremarkable-workshop-and-you&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#iamremarkable-workshop-and-you&quot; aria-label=&quot;iamremarkable workshop and you permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;#IAmRemarkable Workshop and You!!!&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/11ba626bb73318eda9a64668fd5f9556/ae10b/iwd-2019-remarkable.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 82.08333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABrlzSzWFD/8QAGBABAQEBAQAAAAAAAAAAAAAAAQIAEkL/2gAIAQEAAQUC3hpGipUqTinf/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPwFsf//EABoQAAICAwAAAAAAAAAAAAAAAAABEDERIUH/2gAIAQEABj8CG1ReDmyo/8QAHBAAAgICAwAAAAAAAAAAAAAAAREAITFBYXHw/9oACAEBAAE/IUgvCFEfTLKNRUHRAFM1cSkM9zKc/9oADAMBAAIAAwAAABBs/wD/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREx/9oACAEDAQE/EHXhR//EABcRAQADAAAAAAAAAAAAAAAAAAEQETH/2gAIAQIBAT8QKNg//8QAGhABAQADAQEAAAAAAAAAAAAAAREAITGBUf/aAAgBAQABPxBEx3VW+DnuBB3Vmj6r3GCBBFig+mgxw1MjQGyC4Hur9z//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/11ba626bb73318eda9a64668fd5f9556/8ac56/iwd-2019-remarkable.webp 240w,
+/static/11ba626bb73318eda9a64668fd5f9556/d3be9/iwd-2019-remarkable.webp 480w,
+/static/11ba626bb73318eda9a64668fd5f9556/e46b2/iwd-2019-remarkable.webp 960w,
+/static/11ba626bb73318eda9a64668fd5f9556/f992d/iwd-2019-remarkable.webp 1440w,
+/static/11ba626bb73318eda9a64668fd5f9556/882b9/iwd-2019-remarkable.webp 1920w,
+/static/11ba626bb73318eda9a64668fd5f9556/fbf73/iwd-2019-remarkable.webp 3693w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/11ba626bb73318eda9a64668fd5f9556/09b79/iwd-2019-remarkable.jpg 240w,
+/static/11ba626bb73318eda9a64668fd5f9556/7cc5e/iwd-2019-remarkable.jpg 480w,
+/static/11ba626bb73318eda9a64668fd5f9556/6a068/iwd-2019-remarkable.jpg 960w,
+/static/11ba626bb73318eda9a64668fd5f9556/644c5/iwd-2019-remarkable.jpg 1440w,
+/static/11ba626bb73318eda9a64668fd5f9556/0f98f/iwd-2019-remarkable.jpg 1920w,
+/static/11ba626bb73318eda9a64668fd5f9556/ae10b/iwd-2019-remarkable.jpg 3693w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/11ba626bb73318eda9a64668fd5f9556/6a068/iwd-2019-remarkable.jpg&quot;
+            alt=&quot;Oracle Certified Associate Java Programmer Badge&quot;
+            title=&quot;Oracle Certified Associate Java Programmer Badge&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I was contemplating for a while regarding what to do in the workshop. Unfortunately, I couldn’t attend the session to prepare myself to become a facilitator, so whatever I knew about running this workshop was &lt;a href=&quot;https://iamremarkable.withgoogle.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;via google search&lt;/a&gt;. Two days before the event, something very unpredictable happened, which made me realize I need to convert my weaknesses into strengths. And what better way than to scream out loud - &lt;strong&gt;hell yeah! I AM REMARKABLE!&lt;/strong&gt; While I’ll cover more about that in a TED talk, whenever that happens, I took the first step towards sharing my story. I had the &lt;strong&gt;courage&lt;/strong&gt;! &lt;em&gt;Courage to take control of my life in my own hands.&lt;/em&gt; Talking about my personal life in public was something I have never done before. And truth be told, I never imagined myself doing that ever. However, the willingness to move on from things that no longer serve any purpose in life was strong. In plain simple words, I FOUND ME in that workshop while facilitating. Someone confident. Someone happy in her life. It will be blatant a lie if I don’t admit things have not been the same since then.&lt;/p&gt;
+&lt;p&gt;I took the opportunity to share my own story and hear from many attendees and their stories, which inspired me and motivated me. That comforted me. I found that I’m not alone. Considering the reviews and the feedback I received after the event, it looks like it changed their lives too. I also found many new friends whom I still cherish! 😇&lt;/p&gt;
+&lt;p&gt;You can find photos of the event &lt;a href=&quot;https://photos.app.goo.gl/JBi8FgXJkXEHA15n7&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;While I took a break in 2020 from the community and was not a part of IWD celebrations, I’m super super excited to welcome 2021 with 2 events! How to be a part of the celebration, you ask? &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;There’s an &lt;a href=&quot;http://goo.gle/iwd-northamerica&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;International Women’s Day North America Summit&lt;/a&gt; on March 12-13, 2021. Register &lt;a href=&quot;http://goo.gle/iwd-northamerica&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt;. You’ll get the opportunity to hear from a fantastic &lt;a href=&quot;https://events.withgoogle.com/international-womens-day-iwd-north-america-summit-2021/speakers/#content&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;lineup of speakers&lt;/a&gt; and have the chance to win some awesome raffle prizes: Google Cloud Credits ($200 USD per voucher), Leadership Skills Workshop, Mentorship Sessions. &lt;em&gt;PS: You might see me in a cameo appearance.&lt;/em&gt;🤓&lt;/li&gt;
+&lt;li&gt;I’m also helping organize and speaking at Coast 2 Coast IWD Celebration on March 26, 2021. The workshop title is “Reframing Your Narrative” - where I’ll help write a great LinkedIn bio! More details TBD.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(…and yes, they are both free to attend!)&lt;/p&gt;
+&lt;p&gt;I am super pumped to see you at both the events! Just like the event in 2019 changed my life, I hope this year’s IWD event changes yours too! ❤️&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;#CouragetoCreate #IWDNASummit #IWD #WomenTechmakers #GoogleDevelopers&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Getting a Job via Career Fair]]></title><description><![CDATA[Getting a job via career fair is hard and no fun. This article explains how to prepare yourself for your next career fair.]]></description><link>https://lumen.netlify.com/posts/job-via-career-fair</link><guid isPermaLink="false">https://lumen.netlify.com/posts/job-via-career-fair</guid><pubDate>Sun, 10 Nov 2019 22:40:32 GMT</pubDate><content:encoded>&lt;div style=&quot;text-align: justify&quot;&gt;
+&lt;h3 id=&quot;heycareer-fair-is-it-reallyfair&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#heycareer-fair-is-it-reallyfair&quot; aria-label=&quot;heycareer fair is it reallyfair permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Hey..Career Fair? Is it really fair?!&lt;/h3&gt;
+&lt;p&gt;lol ok sorry. I was not a fan of career fair, until I got a job because of that!&lt;/p&gt;
+&lt;p&gt;This post is inspired by something I’ve been sharing with everyone for a while.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 661px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/62dadb5267cee079b4519b17c10bf132/af07a/career-fair-auburn-message.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 167.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAiABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAECAwUE/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAHo20hmiTaV8tKjpsE1tUJB/8QAHBAAAgIDAQEAAAAAAAAAAAAAAQIAEQMQEhQh/9oACAEBAAEFAmU2Aboas9z7AlPGwFn8zTEvC7//xAAYEQACAwAAAAAAAAAAAAAAAAABEBEgUf/aAAgBAwEBPwFScp//xAAYEQACAwAAAAAAAAAAAAAAAAABEBEgUf/aAAgBAgEBPwFQNp//xAAgEAAABQMFAAAAAAAAAAAAAAAAAQIQMRESISIyQXGB/9oACAEBAAY/AtJoLwSinQgci21US5qpljO6RvFDyxN//8QAHRAAAgICAwEAAAAAAAAAAAAAAREAIRBBUWGhkf/aAAgBAQABPyE2q8F4vfQE9D5LJKMUKFi9YsSh7BUMwiWcVxgnDoD2HOZm3jUDc//aAAwDAQACAAMAAAAQbMDD/D//xAAYEQEAAwEAAAAAAAAAAAAAAAABABARIf/aAAgBAwEBPxCmYdOxr//EABkRAQEAAwEAAAAAAAAAAAAAAAEAEBEh8f/aAAgBAgEBPxDB5p46Im//xAAhEAACAgEEAgMAAAAAAAAAAAABEQAhMRBBUdFhcYGRof/aAAgBAQABPxA+PkLk+2IAxELuvkFwKv6U4hnYDuZkmSgAWlnMFCJgkPL9yuImJj01oLRGACNfsStVx2l/M/ItABgwYAdN5//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/62dadb5267cee079b4519b17c10bf132/8ac56/career-fair-auburn-message.webp 240w,
+/static/62dadb5267cee079b4519b17c10bf132/d3be9/career-fair-auburn-message.webp 480w,
+/static/62dadb5267cee079b4519b17c10bf132/84ccf/career-fair-auburn-message.webp 661w&quot;
+              sizes=&quot;(max-width: 661px) 100vw, 661px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/62dadb5267cee079b4519b17c10bf132/09b79/career-fair-auburn-message.jpg 240w,
+/static/62dadb5267cee079b4519b17c10bf132/7cc5e/career-fair-auburn-message.jpg 480w,
+/static/62dadb5267cee079b4519b17c10bf132/af07a/career-fair-auburn-message.jpg 661w&quot;
+            sizes=&quot;(max-width: 661px) 100vw, 661px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/62dadb5267cee079b4519b17c10bf132/af07a/career-fair-auburn-message.jpg&quot;
+            alt=&quot;Message screenshot of someone who texted me about how my tips helped with their job search&quot;
+            title=&quot;Message screenshot of someone who texted me about how my tips helped with their job search&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;When I moved to the USA for a Masters degree 🎓, it was the first time I was introduced to “career fair”. I had no idea what and how to do it. No one to ask to, or tell about how to take advantage of the career fair, which can help you land an interview. If you are not an American Citizen, landing an interview is even more difficult.😥🙀&lt;/p&gt;
+&lt;p&gt;To be fair, I was told by my University’s Career Services department to follow these steps aka out of touch &lt;em&gt;#BoomerAdvice&lt;/em&gt; 😉&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Talk about you and when you are graduating&lt;/li&gt;
+&lt;li&gt;Tell about the positions you are looking for&lt;/li&gt;
+&lt;li&gt;Ask about them and if they are hiring for any&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;year-1&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#year-1&quot; aria-label=&quot;year 1 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Year 1&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;⬇️ was my &lt;em&gt;pickup&lt;/em&gt; line at career fair-&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Hi, I’m Riya Dashoriya, Masters of Science in Information Systems student. I am graduating in Aug 2016. I’m looking for internships or full-time positions related to Software Engineering. I was wondering if you can share more about your company. Are there are any open positions you’re looking to fill?”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Response 1: Hi Riya, nice to meet you. Yes, we are hiring. Please apply on the website.&lt;/p&gt;
+&lt;p&gt;Response 2: Hi Riya, thank you. We are so and so and so. We are currently looking for senior-level positions only.&lt;/p&gt;
+&lt;p&gt;Response 3: … we don’t sponsor H-1B visas 🤦‍♀️…&lt;/p&gt;
+&lt;p&gt;Response 4 (rarely): Hi Riya, we are so and so and so. We do have some open positions. We will forward to the hiring team.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;End of conversation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Here are some fun stats:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Number of companies I talked to: 40&lt;/p&gt;
+&lt;p&gt;Number of interview calls I received: 2&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;unmotivated and dejected and what a waste of time!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 625px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bda9c6a8acb62da99d8300c9f89f1b85/dfe3c/career-fair-resume-meme.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 65.83333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAAB6M2imkUL/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAECEhEhMf/aAAgBAQABBQKqShsqiTyo9P/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABYQAQEBAAAAAAAAAAAAAAAAACEAIP/aAAgBAQAGPwJnP//EABsQAAIDAAMAAAAAAAAAAAAAAAABEUFhIXGx/9oACAEBAAE/IVKUGU9cdGAxqo8RNn//2gAMAwEAAgADAAAAEJT/AP/EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPxAVf//EABcRAAMBAAAAAAAAAAAAAAAAAAABETH/2gAIAQIBAT8Qi0h//8QAGRABAQEBAQEAAAAAAAAAAAAAAREAITGR/9oACAEBAAE/EOw4Kt8xx6RgrcRW/S5jciQwQIgHEM4evGb/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/bda9c6a8acb62da99d8300c9f89f1b85/8ac56/career-fair-resume-meme.webp 240w,
+/static/bda9c6a8acb62da99d8300c9f89f1b85/d3be9/career-fair-resume-meme.webp 480w,
+/static/bda9c6a8acb62da99d8300c9f89f1b85/487e2/career-fair-resume-meme.webp 625w&quot;
+              sizes=&quot;(max-width: 625px) 100vw, 625px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/bda9c6a8acb62da99d8300c9f89f1b85/09b79/career-fair-resume-meme.jpg 240w,
+/static/bda9c6a8acb62da99d8300c9f89f1b85/7cc5e/career-fair-resume-meme.jpg 480w,
+/static/bda9c6a8acb62da99d8300c9f89f1b85/dfe3c/career-fair-resume-meme.jpg 625w&quot;
+            sizes=&quot;(max-width: 625px) 100vw, 625px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/bda9c6a8acb62da99d8300c9f89f1b85/dfe3c/career-fair-resume-meme.jpg&quot;
+            alt=&quot;Message screenshot of how everyone expects to get printed copies of resume&quot;
+            title=&quot;Message screenshot of how everyone expects to get printed copies of resume&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h4 id=&quot;year-2&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#year-2&quot; aria-label=&quot;year 2 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Year 2&lt;/h4&gt;
+&lt;p&gt;A year passed. 🗓 The next career fair was coming soon, so I thought of trying something different.&lt;/p&gt;
+&lt;p&gt;Step 1: &lt;em&gt;Research all the companies coming to the career fair.&lt;/em&gt; Maybe use pen and paper way 📝 Write the relevant open positions, skills they are looking for, any job ID.&lt;/p&gt;
+&lt;p&gt;Step 2: If possible, cater your resume accordingly and print it out.&lt;/p&gt;
+&lt;p&gt;Step 3: On the day of the career fair, target those companies, and talk to them.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Who are you and when you are graduating&lt;/li&gt;
+&lt;li&gt;Talk about the darn position you are interested in. This should show you’ve done your research. You are excited. Additionally, You can say fun facts you read about the company.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;My new pickup line-&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Hi, I’m Riya Dashoriya, MSIS student looking for full-time. I saw company A has a software engineer role open with job id 1234, and you are looking for skills such as Java, React, etc. I’ve done some great projects in them (give an example or two). I was hoping if you could forward my resume to the hiring manager.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;That’s it. That’s really it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funniest stats: 😉&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Number of companies I shortlisted: 36&lt;/p&gt;
+&lt;p&gt;Number of companies I reached out to: 24&lt;/p&gt;
+&lt;p&gt;Number of interview calls I received: 15&lt;/p&gt;
+&lt;h3 id=&quot;final-thoughts&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#final-thoughts&quot; aria-label=&quot;final thoughts permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Final Thoughts&lt;/h3&gt;
+&lt;p&gt;I know that’s a pretty significant number. I only wish if someone had told me this. Ever since then, I’m sharing this with every student I’m meeting. I can proudly say the success rate is tremendous! Almost 90% of them have been able to land interviews. I feel so proud of them when they share their experiences. 🥳&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Please please always do your research about the company before the career fair. This shows you know what you are looking for. You are very clear about your goals. This also helps cut the conversation short, and you to be able to focus on other things.👀&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For students looking for sponsorship --- I know situation is not as favorable. You still need to ASK for it. At career fair, they’ll tell you that they don’t sponsor visas. But trust me, they’ll hire you and sponsor if they like your creds. &lt;strong&gt;Take that chance!&lt;/strong&gt; 😇&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If you are looking for associate level positions, but you see only senior roles open on the website,&lt;/em&gt; &lt;strong&gt;*APPLY**&lt;/strong&gt;. If they like you, they will create a new position for you!! Says my personal experience!! 😎*&lt;/p&gt;
+&lt;p&gt;Signing off with the hope that this will help you if you are looking for a job. Know of any student in a university? Please forward this article to them. 😀&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 260px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/060cf9ded3cc2ccc78befe4fc7bc4c17/ab8e0/career-fair-everyone-gets-a-job.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.58333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/2gAMAwEAAhADEAAAAVIaSxtUNFn/xAAZEAADAQEBAAAAAAAAAAAAAAAAAQISESL/2gAIAQEAAQUCXld0KZHazOFTs//EABcRAQEBAQAAAAAAAAAAAAAAAAECECH/2gAIAQMBAT8BmRO5/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAS/9oACAECAQE/AaK//8QAHBAAAQMFAAAAAAAAAAAAAAAAAAEQESEiMoHh/9oACAEBAAY/AuCS1xlOih//xAAdEAACAwACAwAAAAAAAAAAAAAAAREhMUFRYYGh/9oACAEBAAE/IXcCXmxbUlHWCi34SUklyoLDDAmbJ+j/2gAMAwEAAgADAAAAEEv/AP/EABgRAQEAAwAAAAAAAAAAAAAAAAEAMWFx/9oACAEDAQE/EFiMajl//8QAGBEBAAMBAAAAAAAAAAAAAAAAAQARcaH/2gAIAQIBAT8QbCnsdn//xAAdEAEAAwACAwEAAAAAAAAAAAABABEhMUFRgZHB/9oACAEBAAE/EEYQdWNddkaYuaIy98NRAXW93+kQDDEbnqUFWlFfZxY1zY3xP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/060cf9ded3cc2ccc78befe4fc7bc4c17/8ac56/career-fair-everyone-gets-a-job.webp 240w,
+/static/060cf9ded3cc2ccc78befe4fc7bc4c17/079c7/career-fair-everyone-gets-a-job.webp 260w&quot;
+              sizes=&quot;(max-width: 260px) 100vw, 260px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/060cf9ded3cc2ccc78befe4fc7bc4c17/09b79/career-fair-everyone-gets-a-job.jpg 240w,
+/static/060cf9ded3cc2ccc78befe4fc7bc4c17/ab8e0/career-fair-everyone-gets-a-job.jpg 260w&quot;
+            sizes=&quot;(max-width: 260px) 100vw, 260px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/060cf9ded3cc2ccc78befe4fc7bc4c17/ab8e0/career-fair-everyone-gets-a-job.jpg&quot;
+            alt=&quot;Message screenshot of someone who texted me about how my tips helped with their job search&quot;
+            title=&quot;Message screenshot of someone who texted me about how my tips helped with their job search&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Therapy for Motivation]]></title><description><![CDATA[Sharing some of the tips I follow for motivation and my favorite quotes]]></description><link>https://lumen.netlify.com/posts/therapy-for-motivation</link><guid isPermaLink="false">https://lumen.netlify.com/posts/therapy-for-motivation</guid><pubDate>Thu, 31 Oct 2019 22:40:32 GMT</pubDate><content:encoded>&lt;h1 id=&quot;am-i--today&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#am-i--today&quot; aria-label=&quot;am i  today permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Am I 🥳 today?&lt;/h1&gt;
+&lt;p&gt;Not every day, I wake up with happy feelings..excited for the day (&lt;em&gt;I wish though!!!&lt;/em&gt;) Some days, I go to bed again if I don’t feel good after waking up 👀 &lt;em&gt;For me, I come first. My mental health is always my 🔝 priority&lt;/em&gt; I believe..if I’m taking care of myself, I can take care of everything else. For that, keeping myself motivated is a big task.&lt;/p&gt;
+&lt;p&gt;But.. I love over-thinking and over-analyzing situations. I have the power to think about the worst possible thing that could happen 😕 Occasional meltdowns. Embarrassing moments. CRYing 😿 In last 3 years, I’ve had many instances where I lost my cool. And you know what - &lt;em&gt;its okay&lt;/em&gt;!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“It’s okay to cry. It helps clean your eyes and removes dirty water from your body.” - my Dad 😂&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;What’s more important is how I get my life together after that.&lt;/strong&gt; 🥳 I’m sharing some things that I do, to stay positive, to keep myself motivated, to stop myself from quitting. It’s not easy every day. 🙂 It doesn’t work every day. So what? It works some times, and that’s what matters. I hope this will help you too! 😇&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note: This is in no particular order. It works for me, might not work for you.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;1-take-proper-rest-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-take-proper-rest-&quot; aria-label=&quot;1 take proper rest  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. Take proper rest 🛌&lt;/h2&gt;
+&lt;p&gt;Sleep. Sometimes when you don’t feel right about something, take a damn nap. 💤 It helps. Then when you wake up, you’ll be fresh and be able to start again with a new perspective. 😀&lt;/p&gt;
+&lt;h2 id=&quot;2-believe-in-new--beginnings&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-believe-in-new--beginnings&quot; aria-label=&quot;2 believe in new  beginnings permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. Believe in new 🆕 beginnings&lt;/h2&gt;
+&lt;p&gt;It’s okay to start over and over again 🔁. You don’t have to wait until January 1 to start something new 🤗 Every day is a brand new, with new possibilities, with new opportunities. Start fresh every day 🤠&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 532px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1a35519f657b33d0c9b881b7ca939926/e6523/motivation-new-beginnings.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 41.66666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAIABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAB1IZXQP8A/8QAFBABAAAAAAAAAAAAAAAAAAAAEP/aAAgBAQABBQJ//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAEP/aAAgBAQAGPwJ//8QAGBAAAgMAAAAAAAAAAAAAAAAAABAhUaH/2gAIAQEAAT8hJvF//9oADAMBAAIAAwAAABB/7//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAERMQAQgf/aAAgBAQABPxBFpjmBK2n/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/1a35519f657b33d0c9b881b7ca939926/8ac56/motivation-new-beginnings.webp 240w,
+/static/1a35519f657b33d0c9b881b7ca939926/d3be9/motivation-new-beginnings.webp 480w,
+/static/1a35519f657b33d0c9b881b7ca939926/b5f85/motivation-new-beginnings.webp 532w&quot;
+              sizes=&quot;(max-width: 532px) 100vw, 532px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/1a35519f657b33d0c9b881b7ca939926/09b79/motivation-new-beginnings.jpg 240w,
+/static/1a35519f657b33d0c9b881b7ca939926/7cc5e/motivation-new-beginnings.jpg 480w,
+/static/1a35519f657b33d0c9b881b7ca939926/e6523/motivation-new-beginnings.jpg 532w&quot;
+            sizes=&quot;(max-width: 532px) 100vw, 532px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/1a35519f657b33d0c9b881b7ca939926/e6523/motivation-new-beginnings.jpg&quot;
+            alt=&quot;Quote by Lalah Delia - New moon, New you.&quot;
+            title=&quot;Quote by Lalah Delia - New moon, New you.&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;3-talk-to-friends--family-or-your-close-ones-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#3-talk-to-friends--family-or-your-close-ones-&quot; aria-label=&quot;3 talk to friends  family or your close ones  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3. Talk to friends &amp;#x26; family or your close ones 🤝&lt;/h2&gt;
+&lt;p&gt;Sometimes, just having someone you can talk to, someone who will listen👂 to you, helps a lot.  Whenever I get frustrated, I 📞 my Dad and rants about everything. In that, he will provide me comfort and cheer me up. Text your friends. Talk to your mentor. Find a therapist 👩‍⚕️👨‍⚕️
+PS: I’ll be happy to lend an ear whenever you need one. :)&lt;/p&gt;
+&lt;h2 id=&quot;4-take--day-at-a-time-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#4-take--day-at-a-time-&quot; aria-label=&quot;4 take  day at a time  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;4. Take ① day at a time 😌&lt;/h2&gt;
+&lt;p&gt;Sometimes, things aren’t easy, and you might feel like nothing is working; nothing is going right or as planned. When I was moving places in May, I was very much overwhelmed with everything going on in life. I knew San Francisco 🌉 is where I want to be but made no plans. I panicked 😨 when I got the job and realized I’d have to move in 2 weeks. Stepping outside comfort zone 😵 The best advice I got from my mentor was to take a deep breath 😌 and take 1 day at a time.  Every day I woke up and planned for that exact day. That helped me for the next 3 months until I felt comfortable again 💫&lt;/p&gt;
+&lt;h2 id=&quot;5-read-inspirational-booksquotes-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#5-read-inspirational-booksquotes-&quot; aria-label=&quot;5 read inspirational booksquotes  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;5. Read inspirational books/quotes 📖&lt;/h2&gt;
+&lt;p&gt;I tried reading books like “The subtle art of not giving a fck,” and “Everything is fked, but there’s still hope.”🤞 God knows, I only read 50ish pages of both the books before I stopped again. 🤦‍♀️ I can’t read books whatsoever. 🤷‍♀️ But I read quotes in the morning every day until I find the one which makes me ready for the day. 😎&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e23d316fcb82d17b2a96d213831b64da/fbf08/motivation-credit-self-confidence.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 152.08333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAeCAYAAAAsEj5rAAAACXBIWXMAABYlAAAWJQFJUiTwAAAFrElEQVRIx51VS28bVRR2E6kqpAWJBWpLI5o2T+dpp3k1adOXykuILT+BJUJdoCJRpIqyACREJX4CG0Rb1FQsEGzKpjQNdRM/YjuOxx7b40fssefp8dgf557YTYvKhpE+nzv33vnOd86599jzx2+/4uZXV7G2EcGDtQAerv2NtcA6ogkJW6kM4kkZW5KMdK6AVDaPUqWKmm6hqpvQrTrDIGimzfBs/H4LP1//CLlsBttEkFEKZGVImRyS6QwkOcs2Re9yLs8ollUUKhpMpwG70YTluDBsh+ExnSbqLiAT0eONEJ4Ew1gPbSIYiSIcjTMi8UR7PsI2tBnD4/UgQ8wJmyTHQq1H/Jj1BqS0jPVgCBuhMNv1jSCPg6EQQuEIIptRsmEE6ON0MoEMKRXK01mF1YtwWSHngAa5soZtRUVSqZCtQMqrkEsa4jmVsSWgVFGpGTAti8O0nGbbutA7IXcIS1odSrWOQq2OfNsWajbSZROZisVI7ZhcAMOmYpjWv7C75hFkGg0ajQaef5pAS8wRWs5TNBt1uA0bDUfAglM34NgGbEuDQcRMKFTaVLFWq/UUzSa9N10G/bCDpivIXbIOEzp1C3VbJzKCUSNCc09h3dlVSFyEJnE0aLPJ0DXKXbnEVq2UYOg1Xu8QWmYNtl6FYbyQsNVW5aJYVJBX6GzKErJyCkqODnl8k85sGsVCDnqtwiELQktX/0Nhm6xOeUlJCf5YreygVMxDSop3GZuRICsWOewoNF9M2FG3m6uUtI3tRIw+LkImlenUNjuJRcOoqjtEaLJjURBLU/dC1juEnDuX8yMIbctAeacArSpCM7kQLS5WgystwhUqG7RmE6FuGM9W2WGSDphUHB1SvXuE3GeIzLYDiyveajpc5Tah6BRCocOhiqOxp6LOqlw+e3WuqiASIdpmldEglWLNNrU2YfsuiytVoxyY5EC0pqpu8MnXLZvWdJ4zaKxqOrUvg29GjcaVao1vimaY7eYgitLuZYKgTu2okwbHbe3eUxoLK97FPjGmbbyX55sthkV18Py58iO+/vhDOgohrD5aw+rqKgKBAOIJqrCUQiIpMdJyBtmcwrZapSZbq0Elq6oqj8vlMl9fjxL8C6s//cAHN7C+gRC1q0gkwtjeTiIpSZBSKYSphSWTSWxGo4xYLIbkg4cIU5uLxbeQLxTQpEvh6bSCmqbRzSghXyohl8vRhTe5vp277bpu+443nwINd2/c3utpiRcaFMhDlLymY3HkMhko+TwURUEmm0WG3oWVZRnZLP0V0HuO1oRN05zYm6IohFOPYBWPRgqrlAujUKRj18L/eTjkDmGZGmxYKiIilxFJFbFJeJLIYy2mIED2UYz+oJQS3esKFaCCnZ0ydqgQlYqKChWmSseHCYVM8dz8/jt4R/rh903B75/C7NwMFhZmMT8/i5mZUzTnx9LiPOZoXsydWVrg9SnfJLyjoxgYHMT9+/cF4W6XuXLlEwz2v4ZpXz+GBnuxMD+GsdGTmJv1Yn5uDBPj/ZiaHMD5ZT8W5kaxuDCBc2enaP8A9u3rgsfjwZ07v+wpvHr1Uxw5/Aqm/cMYGxugjV4snfYReR+Wz/hx6eIckQ5i1NuPkeET5GwAp6ZHac2HN46+jq7ubqzcu7dH+MW1z+AdPozF0+OYnByijdNEdhwDA2/i9MIkqRyndIwQvJicGGLypcUpWpvA6EgfK3yO8MaNa7RwBBfOTeMseV0+64dvcpitUCPILp6fwZlFHymfwnvvLOKty/O4fGkWhw4dQldXN+6urOwRfvvNdfQee5UKc4JzNjzUR+OTGKfwRZhCld83TMXxcsh9fcdw/Pgx9PYewcGDB9FNId+9S4Smaewq/PJzTIwdpY8GcZ5Uzs6MMcmFc6eoENN49+1FmhvHB+8vk7MT2L//AF56uQcHDryEnp4eJrx1+zb+ATRd2vCNJQCMAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/e23d316fcb82d17b2a96d213831b64da/8ac56/motivation-credit-self-confidence.webp 240w,
+/static/e23d316fcb82d17b2a96d213831b64da/d3be9/motivation-credit-self-confidence.webp 480w,
+/static/e23d316fcb82d17b2a96d213831b64da/e46b2/motivation-credit-self-confidence.webp 960w,
+/static/e23d316fcb82d17b2a96d213831b64da/c76c7/motivation-credit-self-confidence.webp 962w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/e23d316fcb82d17b2a96d213831b64da/8ff5a/motivation-credit-self-confidence.png 240w,
+/static/e23d316fcb82d17b2a96d213831b64da/e85cb/motivation-credit-self-confidence.png 480w,
+/static/e23d316fcb82d17b2a96d213831b64da/d9199/motivation-credit-self-confidence.png 960w,
+/static/e23d316fcb82d17b2a96d213831b64da/fbf08/motivation-credit-self-confidence.png 962w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/e23d316fcb82d17b2a96d213831b64da/d9199/motivation-credit-self-confidence.png&quot;
+            alt=&quot;Screenshot of Riya&amp;#39;s twitter feed&quot;
+            title=&quot;Screenshot of Riya&amp;#39;s twitter feed&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;6-surround-yourself-with-people--who-motivate-you&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#6-surround-yourself-with-people--who-motivate-you&quot; aria-label=&quot;6 surround yourself with people  who motivate you permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;6. Surround yourself with people 👻 who motivate you.&lt;/h2&gt;
+&lt;p&gt;If you are on any social media, follow (don’t ⛔️ stalk/harass please) people who inspire you. I read stories on twitter about people doing fantastic 🤩 in their fields, which excites 😲 me to do good things. On Instagram, I’ve been following a few accounts who post inspirational quotes now and then. Every 🌞 I open Insta just to read good quotes to start my day. I’d highly recommend this.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 750px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3e7a4dff2cecbd7475ec4643719e244b/acb04/motivation-surrounding.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 41.66666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAIABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAEDBf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB04Jq8H//xAAXEAADAQAAAAAAAAAAAAAAAAAAAhES/9oACAEBAAEFAm1Y1P/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAIDAAAAAAAAAAAAAAAAAAAQIWFx/9oACAEBAAY/AoK1f//EABcQAQEBAQAAAAAAAAAAAAAAAAERAJH/2gAIAQEAAT8hNKe4cVcBCb//2gAMAwEAAgADAAAAEPv/AP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAQEBAAMBAAAAAAAAAAAAAAERACExQbH/2gAIAQEAAT8QspYQEZgEu+V+6AFZ6td//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/3e7a4dff2cecbd7475ec4643719e244b/8ac56/motivation-surrounding.webp 240w,
+/static/3e7a4dff2cecbd7475ec4643719e244b/d3be9/motivation-surrounding.webp 480w,
+/static/3e7a4dff2cecbd7475ec4643719e244b/08b4d/motivation-surrounding.webp 750w&quot;
+              sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/3e7a4dff2cecbd7475ec4643719e244b/09b79/motivation-surrounding.jpg 240w,
+/static/3e7a4dff2cecbd7475ec4643719e244b/7cc5e/motivation-surrounding.jpg 480w,
+/static/3e7a4dff2cecbd7475ec4643719e244b/acb04/motivation-surrounding.jpg 750w&quot;
+            sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/3e7a4dff2cecbd7475ec4643719e244b/acb04/motivation-surrounding.jpg&quot;
+            alt=&quot;Quote by Gohar Abelian - Surround yourself with the game changers and magic makers.&quot;
+            title=&quot;Quote by Gohar Abelian - Surround yourself with the game changers and magic makers.&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;7-find-a-hobby-which-makes-you-smile&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#7-find-a-hobby-which-makes-you-smile&quot; aria-label=&quot;7 find a hobby which makes you smile permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;7. Find a hobby which makes you smile.&lt;/h2&gt;
+&lt;p&gt;I sometimes bake desserts or go to 💃🏻 classes. Cooking disasters always brings a smile on my face. And if the baked item turns out good, then OHMYDESSERTS 🎂🥮🍰🧁🍥! Dancing helps me forget everything going on in life, and be myself. If you are interested in 🎨, 🎙, 🎹🎸, 🌳, or any other activities - do it. Do whatever helps to get through the day.&lt;/p&gt;
+&lt;h2 id=&quot;8-spend-some-quality-me-time-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#8-spend-some-quality-me-time-&quot; aria-label=&quot;8 spend some quality me time  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;8. Spend some quality me-time 😇&lt;/h2&gt;
+&lt;p&gt;Stay quiet for a while. Take a 🏝. I’ve realized that sometimes I need some me-time to recharge myself. Block off everything and DO NOTHING 🙅‍♀️&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 750px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/93ec2b9ed25320508b7eff214ac9a031/acb04/motivation-quality-time.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB21AB/8QAFxAAAwEAAAAAAAAAAAAAAAAAASAhMf/aAAgBAQABBQI7V//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABgQAAIDAAAAAAAAAAAAAAAAAAABIDGB/9oACAEBAAE/IWdDcf/aAAwDAQACAAMAAAAQcM//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAZEAEAAwEBAAAAAAAAAAAAAAABABExIRD/2gAIAQEAAT8QChNQ6HELruyjaPf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/93ec2b9ed25320508b7eff214ac9a031/8ac56/motivation-quality-time.webp 240w,
+/static/93ec2b9ed25320508b7eff214ac9a031/d3be9/motivation-quality-time.webp 480w,
+/static/93ec2b9ed25320508b7eff214ac9a031/08b4d/motivation-quality-time.webp 750w&quot;
+              sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/93ec2b9ed25320508b7eff214ac9a031/09b79/motivation-quality-time.jpg 240w,
+/static/93ec2b9ed25320508b7eff214ac9a031/7cc5e/motivation-quality-time.jpg 480w,
+/static/93ec2b9ed25320508b7eff214ac9a031/acb04/motivation-quality-time.jpg 750w&quot;
+            sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/93ec2b9ed25320508b7eff214ac9a031/acb04/motivation-quality-time.jpg&quot;
+            alt=&quot;Quote by Beau Taplin: I have learned I can survive just about anything so long as I am occasionally allowed a few quiet moments to myself - time to restore my spirit, to mend my wounds, to regroup. A little me time and I can deal with anything the world sends my way.&quot;
+            title=&quot;Quote by Beau Taplin: I have learned I can survive just about anything so long as I am occasionally allowed a few quiet moments to myself - time to restore my spirit, to mend my wounds, to regroup. A little me time and I can deal with anything the world sends my way.&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;PS: No, not everytime you’ve stay silent. Sometimes venting out anger/frustration, sobbing, screaming helps you calm down. Don’t be afraid to do it.&lt;/p&gt;
+&lt;h2 id=&quot;9-take-a-break-beforewhen-burn-down-happens&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#9-take-a-break-beforewhen-burn-down-happens&quot; aria-label=&quot;9 take a break beforewhen burn down happens permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;9. Take a break before/when burn-down happens.&lt;/h2&gt;
+&lt;p&gt;Knowing when-to is not easy 😑 Sometimes you might not realize it early, but as soon as you do, leave. It affects your mental health. Learn when to let things go. I give multiple chances to people, to situations - sometimes it works, sometimes it doesn’t. Find the limit.&lt;/p&gt;
+&lt;h2 id=&quot;10-you-dont-have-to-share-opinions-on-everything&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#10-you-dont-have-to-share-opinions-on-everything&quot; aria-label=&quot;10 you dont have to share opinions on everything permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;10. You don’t have to share opinions on everything.&lt;/h2&gt;
+&lt;p&gt;NO, seriously. You don’t have to reply to every tweet. You ❌ have to say aloud whatever is on your mind. Please give it some ⏰ to resolve on its own. Last week, I over-analyzed a situation and created a problem in my head which never existed in the first place 🤦‍♀️&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 750px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a7a2de1f0ad0dd87bfa6bec1556c7296/acb04/motivation-fire.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 91.66666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdcS0AAH/8QAFhABAQEAAAAAAAAAAAAAAAAAEQAw/9oACAEBAAEFAmcP/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFBABAAAAAAAAAAAAAAAAAAAAMP/aAAgBAQAGPwIf/8QAGhAAAgIDAAAAAAAAAAAAAAAAAREAECAxQf/aAAgBAQABPyFBEm6CPMf/2gAMAwEAAgADAAAAECgnvv/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EABwQAQACAgMBAAAAAAAAAAAAAAEAETFRIGGhkf/aAAgBAQABPxBRS+Tv8ggsYhmj5NBnUAMFcP/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/a7a2de1f0ad0dd87bfa6bec1556c7296/8ac56/motivation-fire.webp 240w,
+/static/a7a2de1f0ad0dd87bfa6bec1556c7296/d3be9/motivation-fire.webp 480w,
+/static/a7a2de1f0ad0dd87bfa6bec1556c7296/08b4d/motivation-fire.webp 750w&quot;
+              sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/a7a2de1f0ad0dd87bfa6bec1556c7296/09b79/motivation-fire.jpg 240w,
+/static/a7a2de1f0ad0dd87bfa6bec1556c7296/7cc5e/motivation-fire.jpg 480w,
+/static/a7a2de1f0ad0dd87bfa6bec1556c7296/acb04/motivation-fire.jpg 750w&quot;
+            sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/a7a2de1f0ad0dd87bfa6bec1556c7296/acb04/motivation-fire.jpg&quot;
+            alt=&quot;Quote from Moonbabe.se: My thoughts are optional. I can choose not to think them.&quot;
+            title=&quot;Quote from Moonbabe.se: My thoughts are optional. I can choose not to think them.&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;11-seek-whatever-sets-your-soul-on-fire-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#11-seek-whatever-sets-your-soul-on-fire-&quot; aria-label=&quot;11 seek whatever sets your soul on fire  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;11. SEEK WHATEVER SETS YOUR SOUL ON FIRE 🔥&lt;/h2&gt;
+&lt;p&gt;Wanna watch cute 🐶 and 😸 videos? Please do it. Not in a mood to code 💻 -&gt; don’t. Don’t wanna wake up? Sleep again 😴. Hungry? EAT.&lt;/p&gt;
+&lt;h1 id=&quot;final-thoughts&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#final-thoughts&quot; aria-label=&quot;final thoughts permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Final thoughts&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;BE KIND TO YOURSELF! BE KIND TO OTHERS! BE YOU!&lt;/strong&gt; &lt;em&gt;Take pride in whatever you do. Honor you. Do it all for you. Appreciate yourself ☝🏻&lt;/em&gt;
+These are the things that help me. They might or might not work for you 🙂 I’m sharing this with the hope that at least one person will be inspired and feel good about themselves today or later, now or forever. As you start planning for 2020 goals, remember 2020 is very personal, and you owe yourself a lot.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please share in comments what works for you and what doesn’t. I’m sure that will help me and everyone else. 😃&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ending this post with some of my favorite quotes I recently read -&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 750px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3aa9b6c3bc802bca420429c447d55783/acb04/motivation-dont-give-up1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 98.33333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAfUmue51YNkKB//EABkQAAMAAwAAAAAAAAAAAAAAAAABEQIQMf/aAAgBAQABBQJlEzI4Sj3/AP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABQQAQAAAAAAAAAAAAAAAAAAADD/2gAIAQEABj8CH//EABoQAAMBAAMAAAAAAAAAAAAAAAABITERQWH/2gAIAQEAAT8ha6L2QNDXQSUUcGH/2gAMAwEAAgADAAAAEMQXff/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EABsQAQEBAQADAQAAAAAAAAAAAAERACExQVFh/9oACAEBAAE/EFGEflyeK8zzqn2+8hgo/cAqs73EpULDuAKnTBUvcAACHw3/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/3aa9b6c3bc802bca420429c447d55783/8ac56/motivation-dont-give-up1.webp 240w,
+/static/3aa9b6c3bc802bca420429c447d55783/d3be9/motivation-dont-give-up1.webp 480w,
+/static/3aa9b6c3bc802bca420429c447d55783/08b4d/motivation-dont-give-up1.webp 750w&quot;
+              sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/3aa9b6c3bc802bca420429c447d55783/09b79/motivation-dont-give-up1.jpg 240w,
+/static/3aa9b6c3bc802bca420429c447d55783/7cc5e/motivation-dont-give-up1.jpg 480w,
+/static/3aa9b6c3bc802bca420429c447d55783/acb04/motivation-dont-give-up1.jpg 750w&quot;
+            sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/3aa9b6c3bc802bca420429c447d55783/acb04/motivation-dont-give-up1.jpg&quot;
+            alt=&quot;Quote by Richelle E Goodrich - Don&amp;#39;t ever give up. Don&amp;#39;t ever give in. Don&amp;#39;t ever stop trying. Don&amp;#39;t ever sell out. And if you find yourself succumbing to one of the above for a brief moment, pick yourself up, brush yourself off, whisper a prayer, and start where you left off. But never, ever, ever give up.&quot;
+            title=&quot;Quote by Richelle E Goodrich - Don&amp;#39;t ever give up. Don&amp;#39;t ever give in. Don&amp;#39;t ever stop trying. Don&amp;#39;t ever sell out. And if you find yourself succumbing to one of the above for a brief moment, pick yourself up, brush yourself off, whisper a prayer, and start where you left off. But never, ever, ever give up.&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 750px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a8f149c1c65da56726cc1a8c1556fbce/acb04/motivation-dont-give-up2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 97.50000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB7UTN2FAoP//EABgQAAIDAAAAAAAAAAAAAAAAAAABEBEg/9oACAEBAAEFAmXD1//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABQQAQAAAAAAAAAAAAAAAAAAADD/2gAIAQEABj8CH//EABkQAQEBAAMAAAAAAAAAAAAAAAExABAg4f/aAAgBAQABPyFJDCWcTi+df//aAAwDAQACAAMAAAAQ/wDvgv/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EABoQAQEAAgMAAAAAAAAAAAAAAAERABAhMUH/2gAIAQEAAT8QAOTCgyamLO/cJEb7wtIPZgQmv//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/a8f149c1c65da56726cc1a8c1556fbce/8ac56/motivation-dont-give-up2.webp 240w,
+/static/a8f149c1c65da56726cc1a8c1556fbce/d3be9/motivation-dont-give-up2.webp 480w,
+/static/a8f149c1c65da56726cc1a8c1556fbce/08b4d/motivation-dont-give-up2.webp 750w&quot;
+              sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/a8f149c1c65da56726cc1a8c1556fbce/09b79/motivation-dont-give-up2.jpg 240w,
+/static/a8f149c1c65da56726cc1a8c1556fbce/7cc5e/motivation-dont-give-up2.jpg 480w,
+/static/a8f149c1c65da56726cc1a8c1556fbce/acb04/motivation-dont-give-up2.jpg 750w&quot;
+            sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/a8f149c1c65da56726cc1a8c1556fbce/acb04/motivation-dont-give-up2.jpg&quot;
+            alt=&quot;Quote by April Green - remember the time when you didn&amp;#39;t think you could carry on; when the sky fell in on you, and the stars floated further away? And here you are. Still - wildflower turning towards the light. Never forget that there is endless grace in the place where you&amp;#39;re standing. never forget that you belong here - exactly where you were designed to be.&quot;
+            title=&quot;Quote by April Green - remember the time when you didn&amp;#39;t think you could carry on; when the sky fell in on you, and the stars floated further away? And here you are. Still - wildflower turning towards the light. Never forget that there is endless grace in the place where you&amp;#39;re standing. never forget that you belong here - exactly where you were designed to be.&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 750px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/deb8dc8ebb8073736010b870071a1090/acb04/motivation-dont-give-up3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 89.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAEDBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe5ENUFAB//EABkQAAIDAQAAAAAAAAAAAAAAAAERECAhMf/aAAgBAQABBQInXB6q/wD/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAUEAEAAAAAAAAAAAAAAAAAAAAw/9oACAEBAAY/Ah//xAAaEAACAwEBAAAAAAAAAAAAAAAAEQEQITFR/9oACAEBAAE/IUCN66iw3hHNFf8A/9oADAMBAAIAAwAAABBDxzz/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAcEAEBAAICAwAAAAAAAAAAAAABEQBRECExQZH/2gAIAQEAAT8QZAvjeEdH1eFpNezHexqIjkLULz//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/deb8dc8ebb8073736010b870071a1090/8ac56/motivation-dont-give-up3.webp 240w,
+/static/deb8dc8ebb8073736010b870071a1090/d3be9/motivation-dont-give-up3.webp 480w,
+/static/deb8dc8ebb8073736010b870071a1090/08b4d/motivation-dont-give-up3.webp 750w&quot;
+              sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/deb8dc8ebb8073736010b870071a1090/09b79/motivation-dont-give-up3.jpg 240w,
+/static/deb8dc8ebb8073736010b870071a1090/7cc5e/motivation-dont-give-up3.jpg 480w,
+/static/deb8dc8ebb8073736010b870071a1090/acb04/motivation-dont-give-up3.jpg 750w&quot;
+            sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/deb8dc8ebb8073736010b870071a1090/acb04/motivation-dont-give-up3.jpg&quot;
+            alt=&quot;Quote by Yung pueblo on essentials for tough days: do not punish yourself. Give yourself ample kindness. Remember that all things change. Make sure that you get a good rest. Do things that will calm your mind. Accomplish smaller goals that day. Real acceptance can remove blocks. This is the time to practice patience. Growth can come with tough moments. a bad moment does not equal a bad life.&quot;
+            title=&quot;Quote by Yung pueblo on essentials for tough days: do not punish yourself. Give yourself ample kindness. Remember that all things change. Make sure that you get a good rest. Do things that will calm your mind. Accomplish smaller goals that day. Real acceptance can remove blocks. This is the time to practice patience. Growth can come with tough moments. a bad moment does not equal a bad life.&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[6 Weeks of Public Speaking]]></title><description><![CDATA[I gave multiple talks within 6 weeks across USA. This is a story reflecting all the goods and bads of the journet]]></description><link>https://lumen.netlify.com/posts/six-weeks-of-public-speaking</link><guid isPermaLink="false">https://lumen.netlify.com/posts/six-weeks-of-public-speaking</guid><pubDate>Sun, 20 Oct 2019 22:12:03 GMT</pubDate><content:encoded>&lt;h2 id=&quot;2019-and-goals&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2019-and-goals&quot; aria-label=&quot;2019 and goals permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2019 and goals&lt;/h2&gt;
+&lt;p&gt;Earlier this year, looking at Twitter trends, I too posted online about &lt;em&gt;my top 3 goals for 2019 with speaking at meetups/conferences to be my #1 priority.&lt;/em&gt; 🥳🎤&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ad0bfac3e3062315b04d0f1df33580c3/393aa/ps-2019-goals.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.83333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAACG0lEQVQ4y61T2Y7aQBD0T+cpD/mKvCRfsy9ZicvYxtgGQ7CN7wNfmBXY1HbP7iKSaHNIGak1qAfXVFfVSN5+j+XSQFnVCMMQAVWaZbher/9Uw3DF5dJD+vL1Mz59/IAwTqGbKyytNYyVjbwowes9gF+WAB0geZ4L0zJQFAfESQLX9dD3Pf603kDvL+BdSghEUTUYpgnb3ojd9TzkeYHD4YCMxs+LAn4QwKN+GEWo60YAMKMfxmZAPpzNZKiahqVhYLPdQtMWmCsKXWBTf0GsXQEcEGhEgKfT6V3mUtu2AmCh6xhPptD1JQzDxHQ6gzxX8O3xkSSxBMuyLFFVlTAvSVPsfZ8uiIWRbG7XdZC4MVdUTIkl/zGOE2RpJn4zm4LG5o+ZZSB6sRid9fYJkHtBEMJxXLTHI6Smaen2g2DwP5ZU8RhFhupQICUmPrNa2+hfhWfH+34QBrwV9+4NGV4jw1mU/CjBaO1DdyKhn0xmWA8PcClKQ3/5LZt70Ftsmu4Jo00CeZfCslbQdAOLoIC8JUebC2LSc0+CV3UtIhPHsdCZpfo5l9eX2NSQJ2Mo8gyqqsK0t1B2CebfY6i7CDNFw2g0IsfnIkq8j8aTF+fz/OauYMyA5/OZnIrg0Avhw5QYxWEgWO0cBz6d+ezs3qcs5sgIhF1nlsyYX9aR3L0BHrsT6rZDS3tDe0lmtCRD9gQklN+UKupI9L94ilzPMxIk0NaVNlYAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/ad0bfac3e3062315b04d0f1df33580c3/8ac56/ps-2019-goals.webp 240w,
+/static/ad0bfac3e3062315b04d0f1df33580c3/d3be9/ps-2019-goals.webp 480w,
+/static/ad0bfac3e3062315b04d0f1df33580c3/e46b2/ps-2019-goals.webp 960w,
+/static/ad0bfac3e3062315b04d0f1df33580c3/b6585/ps-2019-goals.webp 1190w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/ad0bfac3e3062315b04d0f1df33580c3/8ff5a/ps-2019-goals.png 240w,
+/static/ad0bfac3e3062315b04d0f1df33580c3/e85cb/ps-2019-goals.png 480w,
+/static/ad0bfac3e3062315b04d0f1df33580c3/d9199/ps-2019-goals.png 960w,
+/static/ad0bfac3e3062315b04d0f1df33580c3/393aa/ps-2019-goals.png 1190w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/ad0bfac3e3062315b04d0f1df33580c3/d9199/ps-2019-goals.png&quot;
+            alt=&quot;Riya&amp;#39;s goals for 2019&quot;
+            title=&quot;Riya&amp;#39;s goals for 2019&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;From March till June, I spoke at many meetups, conferences, and whatnot. 🤯 Lightning talks to workshops. You can find the list &lt;a href=&quot;https://riyadashoriya.com/pages/about#past&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;but&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#but&quot; aria-label=&quot;but permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;But..&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;However, in May-June, I started realizing that I was no longer interested in speaking.&lt;/em&gt; ☹️ Something was missing, and I couldn’t figure out what. &lt;em&gt;Burnout is real and awful.&lt;/em&gt; I had a breakdown after my last talk in June, cried for hours. 😭 I called up my Dad and explained to him how I felt because I didn’t do good at my talk. I feel like I didn’t give my 💯 and that that was the worst talk I ever gave. I was having self-doubts if I should continue or not. I called up a few of my friends to know their opinions too.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 750px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/557dfabd6b1aea33705add7358c61b86/acb04/ps-dixit-motivation1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 102.50000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAVABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAEDBAUC/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMAAf/aAAwDAQACEAMQAAAB60T6OrY3FvsGeeJV/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAEQERMhMf/aAAgBAQABBQK4bFwsS0kZKP/EABcRAQADAAAAAAAAAAAAAAAAAAAQERL/2gAIAQMBAT8BZin/xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQIBAT8BJxv/xAAYEAACAwAAAAAAAAAAAAAAAAAAARAgMv/aAAgBAQAGPwKyjKP/xAAaEAADAQEBAQAAAAAAAAAAAAAAAREhQTFh/9oACAEBAAE/IWaqKTwuNFb6PTOxwkysVnw//9oADAMBAAIAAwAAABD4GEH/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8QQ2K2L//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPxC6TKNP/8QAHBABAAICAwEAAAAAAAAAAAAAAQARITFBUWFx/9oACAEBAAE/ELsb+wQCAfWChCV3cQHDBiNHBz1G3cstbkHXkC1ph5KW3Wf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/557dfabd6b1aea33705add7358c61b86/8ac56/ps-dixit-motivation1.webp 240w,
+/static/557dfabd6b1aea33705add7358c61b86/d3be9/ps-dixit-motivation1.webp 480w,
+/static/557dfabd6b1aea33705add7358c61b86/08b4d/ps-dixit-motivation1.webp 750w&quot;
+              sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/557dfabd6b1aea33705add7358c61b86/09b79/ps-dixit-motivation1.jpg 240w,
+/static/557dfabd6b1aea33705add7358c61b86/7cc5e/ps-dixit-motivation1.jpg 480w,
+/static/557dfabd6b1aea33705add7358c61b86/acb04/ps-dixit-motivation1.jpg 750w&quot;
+            sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/557dfabd6b1aea33705add7358c61b86/acb04/ps-dixit-motivation1.jpg&quot;
+            alt=&quot;Riya asking friends for their opinions&quot;
+            title=&quot;Riya asking friends for their opinions&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 750px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a52f39e6e8ea027d0d0a792d05da8f9b/acb04/ps-dixit-motivation2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 160.83333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAgABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAgADBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAfXLiTC21Lwny3TFf//EABsQAAICAwEAAAAAAAAAAAAAAAABAhEDEjEQ/9oACAEBAAEFApIrzpRsLk5aqxJ1khJtRZ//xAAXEQADAQAAAAAAAAAAAAAAAAAAEBES/9oACAEDAQE/AYZVP//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPwGxFY//xAAcEAABAwUAAAAAAAAAAAAAAAAAAQIQESAhMTL/2gAIAQEABj8Cvqk40cNP/8QAHhAAAgIBBQEAAAAAAAAAAAAAAAEhMRFRYYGx4cH/2gAIAQEAAT8hoFLwa5HDwU46HMqyihL0G2RREfbgklNvk//aAAwDAQACAAMAAAAQJDNx/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAwEBPxAUKN6Qf//EABcRAQEBAQAAAAAAAAAAAAAAAAERACH/2gAIAQIBAT8QZblCag5q3//EAB4QAQADAAICAwAAAAAAAAAAAAEAESExQWGBUXHh/9oACAEBAAE/ELPxLhanwilTq+TO3Ye0ICi/SF048xaCqHJGAL0NhSY9rwBblv1Qx7/UGloats//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/a52f39e6e8ea027d0d0a792d05da8f9b/8ac56/ps-dixit-motivation2.webp 240w,
+/static/a52f39e6e8ea027d0d0a792d05da8f9b/d3be9/ps-dixit-motivation2.webp 480w,
+/static/a52f39e6e8ea027d0d0a792d05da8f9b/08b4d/ps-dixit-motivation2.webp 750w&quot;
+              sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/a52f39e6e8ea027d0d0a792d05da8f9b/09b79/ps-dixit-motivation2.jpg 240w,
+/static/a52f39e6e8ea027d0d0a792d05da8f9b/7cc5e/ps-dixit-motivation2.jpg 480w,
+/static/a52f39e6e8ea027d0d0a792d05da8f9b/acb04/ps-dixit-motivation2.jpg 750w&quot;
+            sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/a52f39e6e8ea027d0d0a792d05da8f9b/acb04/ps-dixit-motivation2.jpg&quot;
+            alt=&quot;Riya asking friends for their opinions&quot;
+            title=&quot;Riya asking friends for their opinions&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;i-should-fix-this&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#i-should-fix-this&quot; aria-label=&quot;i should fix this permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;I should fix this..&lt;/h2&gt;
+&lt;p&gt;I decided to take a break for a while to figure out what is going on with me, and if I WANT to continue public speaking or not. &lt;strong&gt;Time for Retrospect&lt;/strong&gt;. One of my friend, &lt;a href=&quot;https://twitter.com/Vikram_Tiwari&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Vikram&lt;/a&gt;, explained: ”&lt;em&gt;It’s easy to lose motivation if you are giving the same talk over and over again. I know you are passionate about tech X. But you need to modify the content for every single talk. Make minor changes so that you won’t feel like you are repeating yourself.&lt;/em&gt;” His words stuck with me, and I spent some time thinking about this.&lt;/p&gt;
+&lt;h2 id=&quot;so-lets-plan&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#so-lets-plan&quot; aria-label=&quot;so lets plan permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;So let’s plan..&lt;/h2&gt;
+&lt;p&gt;In August, I decided that I want to &lt;strong&gt;give public speaking one more try&lt;/strong&gt;. &lt;em&gt;If I don’t like it this time, if I don’t find my motivation again, I’ll never think about doing this again. I’ll stop public speaking and never look back.&lt;/em&gt; 🤞&lt;/p&gt;
+&lt;p&gt;So to start with, I realized that my favorite events DevFests by &lt;a href=&quot;https://twitter.com/gdg&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;GDG&lt;/a&gt; communities are coming up in the USA in September! (Fun fact: I’ve been with the GDG communities as an organizer in an on-off relationship since 2014.) I decided to submit Call For Proposals to speak at multiple DevFests. &lt;em&gt;Ended up applying to 5, and 4 of them got selected. Yay!&lt;/em&gt; 🥳 (I still can’t believe it to date. The same talk on accessibility, 4 places whaaaaattttt 💫). My success criteria was I need to convince at least 1 person to think about accessibility. ✅&lt;/p&gt;
+&lt;h2 id=&quot;its-execution-time-they-say&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#its-execution-time-they-say&quot; aria-label=&quot;its execution time they say permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Its execution time, they say..&lt;/h2&gt;
+&lt;p&gt;For the last 6 weeks, I’ve been continuously traveling ✈️, either speaking at 🎤or attending conferences. Below is the breakdown of 6 weeks I’d like to share(excludes internal talks at Quizlet):&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. DevFest Los Angeles, September 13, 2019&lt;/strong&gt;
+Lessons learned: Speak slowly. Do not complete your session in 20 minutes if you are scheduled for 30 min. This, I believe, was an excellent start for me and helped me prepare better for the next ones. 🙂&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 750px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/fc4185ee4fd761cd1fe4a92ce224651f/1d69c/ps-gdgla.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.91666666666669%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAAsTAAALEwEAmpwYAAAHUUlEQVRIx5WWe3BUdxXHLzSA5EkAeQVCSEoAsUMBrSgOfWDFWjPI8IYCIbyslKIM0Km1FKSDMNbBItoyUG0FynQcWqRAxT9SccAqFITCZjfZZN+PJJvNvu7u3ffHs3cDhYJafzPfOb/fb+/97vfcc87v/BS7zYq3w0tzq5lOsRaLhXQ6zc0RCoVobW2lqakJl8t1a9/v9+trl8eDq62NiM9HUJ5VvP4Qu14+zLqGndxodeF02HE6Xfi7u+ns7MRitWEyNcvcp/9RJpslK0ilUiSTSVKyp9vcWqB8dMnIU+tfZP3a7Rx5/yJGk5ErV69jbG7RiVtb22TPpCvNjRzZvcbNP1IC3RH2vvkLjh7/Hd2BKLF4gkhU0/HZVzOZjP7SvXBzKPzPke3B5xuKmshg6Epg8idwhZNYAklMsm6WtTWYxC7wRLM42n20yce3WK1YbTb9c/gkEA6nE7vDId4F8oSxFDgjGdxqBo+apT0GPi1ns3iFqDOW3wuoMRzyosfr1YNls9mFsAtfVxftHR0Eg8E8YSQcwt7agr3NTLvbSWuzEY/DRrvLgd3ShuH6J5iaDFhF2edyOZpI4fCFaA9E6AzHcHWF8ARU3P4wnV1+PB6vriCnJCBuxePxW9G+V2CUcDJLkz+NNZTBHEjREkhj6k5hD8taUsZsNmOQpDYaTXo+WiUv/1Pq5F2WoLjCKbq1NF2xPNyRFL5omkT67hfvUnU79CiLwuZuiW5Q1PVYZziNTaCm+L/HvfMwm4F0kkwqKeWWkoSWkpMSi0ajkh5BqdkwmqaRTMRJanESMs/01L+Sq0VVU4lqUiU9CIWCepStxk9o+uc5rjT+iYunj3Lq4F52b3mG1XO+y6Nfm8zSSZN4ccJENo2bwI8nT6VD8lNJihI1FiEWU29BE9J4XNPn4aBEullS52+n+fjEYc4feZ33d21mx8IZfLu8lOW9C1hW0Jc6pRfmK1eEUNwKR4LiTkQn0sluQzIZR/O3E3M2E7EZ6G6+huHEHzj07FzqKoaxorCYtaUDWFBUjOXaNZREMkEw4CcSFlI1TCxHLMriMSHM2XgMtcNF2HID1XaDpLsN7/kPOPyTpdSNHMbyLxSypqSMBf0LhfCqKBTCUCigE6ry7WJqRIfWg7iWI3QTsTShCuIOM25x/9hL9cyuHMGK/kWsLi1joVhdoe5yjlDIVCnDaFhURgRiNVGsidKozyvqWnQknBYcjSc5/MIy5lVV0CAuN5SUisIirDnClKRFrCcIWiwmbmqSBpIOsk6IuwkptRxhVJRF7a2kPA4M7x7mwIb5LK4eyZqiEuqFcJ7ucu4byotd0hciwYD+veJCpkVjhKVuo5G8wlinG9VqEjTrCp0fnuHgxkUsvn+UEJbqhAsKexRqqorH3EagozNPKAgLuUdOF6+gQxpRTIKiWo0SGCNZmX94aD8/X/Ydloyt0gmfEpVzevfFdlUI0xKUeKiblCR3VnKSTFK3mUSMjJBn5fd0oEOUmdGcrRJlCweef5ptix5mbs1olvcrYu2IIWx8sAa3qQmlxWhg3+4dvH3oN7x39Pd8cPwYjaeOc+EvJ/n43Fmu/b2Rpgtn8RguE5SgxFxtHNnzPLsbHufJMRUsGjKMN374Pd7eMR+/Vyrl7JnTDC3qS2V5CSNKiykvLmPggEGM+OIwRldUMm5MDV8e/yWmTprCN6Y8xLemP8wDtQ8wcUwVj44YymLJxQOrp7O/YQqddhPKe++eQFEUSgrLKOxXQv++JfTrU0yfgmJ6FxTqtqB3oTxThNKrWGwx9/UZQD95ftbgMpYOLueV2TX8cl417RYDSuOfT/FgxQC+Ob6K6bWVfL12FNPHVzKtdjTTx+b3Vn3/MTY3zOGRyROYUDGcr9aM5Cv3D5fEHsSKkYPYU1fFK3MqaG+7jnLj3Bm2PjSY7bNqeWnmGLbNrGL749X8dGY12x6r5mdP1PKczPevf4JLJ3fR+NZWzr+znWPbF7Fx2lA2zqhkyyOj2DRjKC6zEH50+gR1A3uxpGYQi6rLqK8tp2HcYFaOFTu+nHVTh8lvxexZOZOmfxzk6l8PYLz0Ju/sWcPKiQNYP20kG6aNYt2UoThMQnjhxB+Z2UvhydI85g5WmD9I7ECFBUMEwxXqyhW2zhrPWzuX8dvNs3njhbnsXDCFhaMUllQXsLRGUH0fNsO/UJovX2R3/UL2Pr2SvT9Ywb4N9by6vp59z4jdsIJfCV59VtYbBT+qZ/+m3HwZv964nNe2rOK1rat5/blVggZ8bjtKrrV0Sbf3hjV8ajKPaBJvSJPGlSEiJ7v0sDuQ29P3k3mEBGo6f2GR0yaNxemlyWyjxebCZHFitru5IWurqx2vT8qwsxuP77+jvStAWi5Tt5pUQug/2zXv3czv3stksje7aJ5QkxPGYHXf0YfjiQQ+f0C/wt0cuUvBy5ely326JS0ihc3pkUMl8SlhStyOqNG71EXlbLz9lpASoja5YWSyd94Zw5Go7m5u/BtFdSq0glghjAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/fc4185ee4fd761cd1fe4a92ce224651f/8ac56/ps-gdgla.webp 240w,
+/static/fc4185ee4fd761cd1fe4a92ce224651f/d3be9/ps-gdgla.webp 480w,
+/static/fc4185ee4fd761cd1fe4a92ce224651f/08b4d/ps-gdgla.webp 750w&quot;
+              sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/fc4185ee4fd761cd1fe4a92ce224651f/8ff5a/ps-gdgla.png 240w,
+/static/fc4185ee4fd761cd1fe4a92ce224651f/e85cb/ps-gdgla.png 480w,
+/static/fc4185ee4fd761cd1fe4a92ce224651f/1d69c/ps-gdgla.png 750w&quot;
+            sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/fc4185ee4fd761cd1fe4a92ce224651f/1d69c/ps-gdgla.png&quot;
+            alt=&quot;Riya speaking in Los Angeles&quot;
+            title=&quot;Riya speaking in Los Angeles&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. DevFest Auburn, September 15, 2019&lt;/strong&gt;
+This was a very unique conference. It was their first time organizing, and the community is brand new. The attendance was mostly students. 👨‍🎓👩‍🎓 I don’t think I ever spoke at a conference, with the majority of the audience being the students. 50%+ had no idea about accessibility, it was more exciting for me to share about #a11y. 😇 &lt;em&gt;Fun fact: I used Quizlet sets to present, instead of regular google slides.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/83eeb865f60482146226350e3ae6c0e1/d2602/ps-gdgauburn.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAFPXM1nTCeM/8QAHRAAAQMFAQAAAAAAAAAAAAAAAQACEgMEERMhI//aAAgBAQABBQJxVESZcj1kVtwwnv8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/ATSf/8QAGxAAAgEFAAAAAAAAAAAAAAAAABEBAhAxcYH/2gAIAQEABj8CHJwyJ1Rq3//EABsQAAICAwEAAAAAAAAAAAAAAAABESExQVFx/9oACAEBAAE/IYnVi8+9IThwQqLeoVvE2LENn//aAAwDAQACAAMAAAAQRx//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREx/9oACAEDAQE/EHGYf//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8QA1dP/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARMSGhQZGx/9oACAEBAAE/EGcNDFoX1FhWKFnEB0EseQ+QUlQ6yoj8e5alRbt1Z//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/83eeb865f60482146226350e3ae6c0e1/8ac56/ps-gdgauburn.webp 240w,
+/static/83eeb865f60482146226350e3ae6c0e1/d3be9/ps-gdgauburn.webp 480w,
+/static/83eeb865f60482146226350e3ae6c0e1/e46b2/ps-gdgauburn.webp 960w,
+/static/83eeb865f60482146226350e3ae6c0e1/f992d/ps-gdgauburn.webp 1440w,
+/static/83eeb865f60482146226350e3ae6c0e1/882b9/ps-gdgauburn.webp 1920w,
+/static/83eeb865f60482146226350e3ae6c0e1/b33a3/ps-gdgauburn.webp 4032w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/83eeb865f60482146226350e3ae6c0e1/09b79/ps-gdgauburn.jpg 240w,
+/static/83eeb865f60482146226350e3ae6c0e1/7cc5e/ps-gdgauburn.jpg 480w,
+/static/83eeb865f60482146226350e3ae6c0e1/6a068/ps-gdgauburn.jpg 960w,
+/static/83eeb865f60482146226350e3ae6c0e1/644c5/ps-gdgauburn.jpg 1440w,
+/static/83eeb865f60482146226350e3ae6c0e1/0f98f/ps-gdgauburn.jpg 1920w,
+/static/83eeb865f60482146226350e3ae6c0e1/d2602/ps-gdgauburn.jpg 4032w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/83eeb865f60482146226350e3ae6c0e1/6a068/ps-gdgauburn.jpg&quot;
+            alt=&quot;Riya speaking in Auburn&quot;
+            title=&quot;Riya speaking in Auburn&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. DevFest San Francisco, September 21, 2019&lt;/strong&gt;
+Ok, this was a crazy event. 🤓 I never thought of speaking because I was a part of the organizing team. However, 2 of my co-organizers were presenting, which made me think about speaking too. &lt;em&gt;Fun fact: I started having severe back pain from the mid of the event. All of my photos after that have my hands supporting my lower back. 🤦‍♀️&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8ea608bcc3dfa2111b3d897d30ff53f1/d2602/ps-gdgsf-intro.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAID/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAcoyS2gP/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAERAhIx/9oACAEBAAEFAu2bTkRpK+Ep/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAABEBEDGh/9oACAEBAAY/AlJvabrD/8QAGxABAQACAwEAAAAAAAAAAAAAAREAIRAxQWH/2gAIAQEAAT8hfKZ9yQybkL4QSpXDRHY95NaZ/9oADAMBAAIAAwAAABBo7//EABYRAQEBAAAAAAAAAAAAAAAAAAARQf/aAAgBAwEBPxDVf//EABcRAAMBAAAAAAAAAAAAAAAAAAARIWH/2gAIAQIBAT8QUFp//8QAHRABAAICAgMAAAAAAAAAAAAAAQARITFBYVHR4f/aAAgBAQABPxAyghUUY3gh3ASAvvT8gtp5dvczzJeNcwgAzbS4gga2+5//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/8ea608bcc3dfa2111b3d897d30ff53f1/8ac56/ps-gdgsf-intro.webp 240w,
+/static/8ea608bcc3dfa2111b3d897d30ff53f1/d3be9/ps-gdgsf-intro.webp 480w,
+/static/8ea608bcc3dfa2111b3d897d30ff53f1/e46b2/ps-gdgsf-intro.webp 960w,
+/static/8ea608bcc3dfa2111b3d897d30ff53f1/f992d/ps-gdgsf-intro.webp 1440w,
+/static/8ea608bcc3dfa2111b3d897d30ff53f1/882b9/ps-gdgsf-intro.webp 1920w,
+/static/8ea608bcc3dfa2111b3d897d30ff53f1/b33a3/ps-gdgsf-intro.webp 4032w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/8ea608bcc3dfa2111b3d897d30ff53f1/09b79/ps-gdgsf-intro.jpg 240w,
+/static/8ea608bcc3dfa2111b3d897d30ff53f1/7cc5e/ps-gdgsf-intro.jpg 480w,
+/static/8ea608bcc3dfa2111b3d897d30ff53f1/6a068/ps-gdgsf-intro.jpg 960w,
+/static/8ea608bcc3dfa2111b3d897d30ff53f1/644c5/ps-gdgsf-intro.jpg 1440w,
+/static/8ea608bcc3dfa2111b3d897d30ff53f1/0f98f/ps-gdgsf-intro.jpg 1920w,
+/static/8ea608bcc3dfa2111b3d897d30ff53f1/d2602/ps-gdgsf-intro.jpg 4032w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/8ea608bcc3dfa2111b3d897d30ff53f1/6a068/ps-gdgsf-intro.jpg&quot;
+            alt=&quot;Riya doing the opening talk in San Francisco&quot;
+            title=&quot;Riya doing the opening talk in San Francisco&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/defb0e56b7162001c8ebd0ad85f8a7ac/0f98f/ps-gdgsf-talk.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMA/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAGFILJrLC//xAAcEAACAgIDAAAAAAAAAAAAAAABAgMRAAQSIiP/2gAIAQEAAQUCgqbD5ETWJU4Pr98dEv8A/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BV//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8Bqhh//8QAHBAAAgICAwAAAAAAAAAAAAAAABEBIQISIjFB/9oACAEBAAY/AlOSkRdDxrj4TvZ0f//EABwQAAICAwEBAAAAAAAAAAAAAAERADEhQVFxgf/aAAgBAQABPyEfBIAbmezAo9mQQuOCLTbSFjppz4vU/9oADAMBAAIAAwAAABDU3//EABYRAQEBAAAAAAAAAAAAAAAAABEAAf/aAAgBAwEBPxDFll//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EHrhH0//xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhMUFxYf/aAAgBAQABPxB1DncKG35L3RTbjCGTdGSolupOl1yKtDDfRKzE8Dvk/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/defb0e56b7162001c8ebd0ad85f8a7ac/8ac56/ps-gdgsf-talk.webp 240w,
+/static/defb0e56b7162001c8ebd0ad85f8a7ac/d3be9/ps-gdgsf-talk.webp 480w,
+/static/defb0e56b7162001c8ebd0ad85f8a7ac/e46b2/ps-gdgsf-talk.webp 960w,
+/static/defb0e56b7162001c8ebd0ad85f8a7ac/f992d/ps-gdgsf-talk.webp 1440w,
+/static/defb0e56b7162001c8ebd0ad85f8a7ac/882b9/ps-gdgsf-talk.webp 1920w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/defb0e56b7162001c8ebd0ad85f8a7ac/09b79/ps-gdgsf-talk.jpg 240w,
+/static/defb0e56b7162001c8ebd0ad85f8a7ac/7cc5e/ps-gdgsf-talk.jpg 480w,
+/static/defb0e56b7162001c8ebd0ad85f8a7ac/6a068/ps-gdgsf-talk.jpg 960w,
+/static/defb0e56b7162001c8ebd0ad85f8a7ac/644c5/ps-gdgsf-talk.jpg 1440w,
+/static/defb0e56b7162001c8ebd0ad85f8a7ac/0f98f/ps-gdgsf-talk.jpg 1920w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/defb0e56b7162001c8ebd0ad85f8a7ac/6a068/ps-gdgsf-talk.jpg&quot;
+            alt=&quot;Riya speaking in San Francisco&quot;
+            title=&quot;Riya speaking in San Francisco&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. DevFest Wisconsin, September 29, 2019&lt;/strong&gt;
+They said it was their first DevFest. Pretty sure they’re lying. 🤨 This conference was GREAT in so many ways. Organizers were fabulous with the communications, parties, supporting local communities, arrangements, and whatnot. I learned from them how to organize events. Pretty sure I’m going to copy their tactics. 😉 I got many good comments regarding my energy level during my talk. In reality, I was on another level, a completely different person. 😬 &lt;em&gt;It’s worth noting that I was not on sugar or coffee or any desserts. It was my passion and my excitement for accessibility (and lessons learned from previous talks).&lt;/em&gt; 😎&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5894330ce38c9df25cca8115c534db8d/d2602/ps-gdgmadison.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAMCBP/aAAwDAQACEAMQAAABz6Wg0SlwVf/EABoQAAMAAwEAAAAAAAAAAAAAAAECAwAREiL/2gAIAQEAAQUCnLbNBABFzg534xSoH//EABcRAQADAAAAAAAAAAAAAAAAAAABEhP/2gAIAQMBAT8BzUh//8QAGREAAQUAAAAAAAAAAAAAAAAAAAECAxMh/9oACAECAQE/AbNFkcf/xAAeEAABAgcBAAAAAAAAAAAAAAAAEaEBAhAhIjJBkf/aAAgBAQAGPwLODmrnPRUJrU//xAAZEAEBAQEBAQAAAAAAAAAAAAABEQAhQXH/2gAIAQEAAT8h5tCeY0iHy4JQxAjF6K5peJ83/9oADAMBAAIAAwAAABAIL//EABgRAQEAAwAAAAAAAAAAAAAAAAEAESEx/9oACAEDAQE/EE9zDm7/xAAYEQEAAwEAAAAAAAAAAAAAAAABABGh4f/aAAgBAgEBPxARSoFQM7P/xAAcEAACAgIDAAAAAAAAAAAAAAABEQAxIUFRcYH/2gAIAQEAAT8Q21RQm8cQpDQOQXHsBVIC0Fa8gzICCXUFbpop/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/5894330ce38c9df25cca8115c534db8d/8ac56/ps-gdgmadison.webp 240w,
+/static/5894330ce38c9df25cca8115c534db8d/d3be9/ps-gdgmadison.webp 480w,
+/static/5894330ce38c9df25cca8115c534db8d/e46b2/ps-gdgmadison.webp 960w,
+/static/5894330ce38c9df25cca8115c534db8d/f992d/ps-gdgmadison.webp 1440w,
+/static/5894330ce38c9df25cca8115c534db8d/882b9/ps-gdgmadison.webp 1920w,
+/static/5894330ce38c9df25cca8115c534db8d/b33a3/ps-gdgmadison.webp 4032w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/5894330ce38c9df25cca8115c534db8d/09b79/ps-gdgmadison.jpg 240w,
+/static/5894330ce38c9df25cca8115c534db8d/7cc5e/ps-gdgmadison.jpg 480w,
+/static/5894330ce38c9df25cca8115c534db8d/6a068/ps-gdgmadison.jpg 960w,
+/static/5894330ce38c9df25cca8115c534db8d/644c5/ps-gdgmadison.jpg 1440w,
+/static/5894330ce38c9df25cca8115c534db8d/0f98f/ps-gdgmadison.jpg 1920w,
+/static/5894330ce38c9df25cca8115c534db8d/d2602/ps-gdgmadison.jpg 4032w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/5894330ce38c9df25cca8115c534db8d/6a068/ps-gdgmadison.jpg&quot;
+            alt=&quot;Riya talking in Wisconsin&quot;
+            title=&quot;Riya talking in Wisconsin&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 750px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9eac188d83ffc9a3d6997198dc5d1f00/1d69c/ps-gdgmadison-reviews.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.91666666666669%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAAsTAAALEwEAmpwYAAAG0ElEQVRIx5WWe4zU1RXHJ6URdkEetTSlgsbY+EcLbYi7xaJlKVBNin+0VK1tSAMJFhEUC6kWaSUIVIWmARYfKUlr0NgSqbUpaeWxRSK4ugsOu/Paec/svGd23u/np+f+hmFnlLT2Jif3d+/v3O8973t00ViMbC6Px+PB6/Xi8/mIRqNEIhHUyGQy2Gw2LBYL2WyW1giHwwQCAUKBEFavDWfKSTadQZeORzn79zfx+MZpNBpUKhXq9TrlcplUKoW6UB2Ox+Ma5fN5DbBWq1GtVqnLXJQzvlyFSrWOzi9SbV/3Q0aGz2mMClQNBfzuqdOcOTvAwL/P8d7589o8NDSsXdg+yrIcjtQp1kBXLlfwe+2y3WJqUL8K+tnHJL+ufTtRauDO/fej6WwOb0DsF44RikyImtWO/7pIGUzhIq54CX++wYg/iSOSxhZOYQ2lCCSyFMRuyiGKkmLXUCRKIpkS8Lymfqms7FfTzKUL+UIcfWInx/e8hMHg5bLBxJDeyKURExcujfDR5SuYxmyMmizor1xhZET2hoZwutx4/UEKxSKxeJJcoaiZSmcY1NN//0Oc3r0fvd4jKjewxis4klWsiSoWIWeqhi1ZIxiJ4fb6MMsFLrcHp9PFxES8U2Xl9nff+CcX3h6QkCjidrkYG7Pi9YgE0STedAN/RoAnytjlEqdEjZpLtes7rsMpKrZSmZw2K8eV6hVM2XGy1YL2vy42y/7tArVCqbkW+6XSWdqDQte+UN/KuO0jQ5mWHxsqsiaS18JE2axYKl+LX80piscxfBHrqZMUCnkCwZBmH6/Pj11SbsxoJuixExw+QdzzIS9/kOX04CWSETcTqWbWKK1KlWoT0OawcWzH47yz49foB9/D4fJgHB3BbjFhdgf4yBHG6o9hto1h9bk5Zcoy6M3giWdwO52aU9zecYKhUFPlaCLO1h2/4hePPIHFLNKEI5iDSezhNJ5ABFsaDCmwZNCC3pyoiFNqXAkVMHrCoklAKxwq3685xSdR7w9Htai3O5w4AlEs3hBjVisuiVOzy4dTZk8oRiwrRaNUJymUE+MWSyXS6bRWKK46pdHhZfUzJVLHJ2JatSnkcyTkOzExQbGQ/59ZrZv0UBMwl8sJaIacpFs8niAt9TBfKGgpp9VOST81R6Ix4omE2HBCu/i6cViQg3a7A4dSWwxuNJqwWm1a8TWbLdq3y+2WFDViEnsr+mS2dACqoto6FAgGNWCPx4tVwkdV82CwaVefhFQoFNYud0pmJUTSluk6AIuS6IrBJaRmBaRAbXa7dpHFMqattUvlv2VsTJPSLRq0iu6nVDYYjYyKSsrb6oBef0WzU1jemOY7EmR8fFyTVsVeSKhUnsyWDsCqlP1wKEhI1I0IY1jI7w98tpp9PZVrsqnFlkifl5SutjErlVrUUNS218rjT0soNC7ZYE+UcaYleCv830PXLm5c4mvtmh+xvO979C29h6U9PdzV08u3e3tZuuQu7pa9vmXf5b6+Faxatpzl3+ljpayX39PHxocfFDMFm4AtD5nFGTN1n+ObD+2ld8Mr3LF6O/N7H2DWLT1MmXEzOt1UIR1fEJol1C00RUjtTRcy6PWdgFZJ8gVz5rDml8fZ0G9k3UE96w9/zIZXDKz93UUe3H2KFT95ljtmz+R2odtmzmBeVxdfvGEqN3d1YzEYOgHtElO3zpjFj7f+ic0HPuDne8+w6fmzPPbCABv3nWHz74dYu+01bpl+Iwu6ZzB/ehdfnjaNudO6mP35qRhHRls2bALmwlaO/HQuT+76M9tFwu37z/PUAUXnmiRSbnn6GPfePpt7vzqHO+dOZ9GcLnpn6FjUrcNmuiph46qEsfExXlx9E888+zrPHPqYXQffZ++Ri+x64R/s6X+ffS9/yHPP/5W3tsxndP8C3t78FU5snMOebSt56akllAKfsKF6e1ffOpfnVt3GwM5F7Pv+13h44ddZt3gRj6/cw5P39fP08qUsW/AlXlwzn99+4wZWPPAId/4Let4IMuhJdgI6JO1+s/gmjq2cwuX1U3nn/m4OL7mR/YvnsnnR3fxh1Vb6vzWPR3vmc3JjD0cW6ujddJCFJ2Hea2n+Yit1xmFF2jXroa2MHv4Z5sPrcR7dhOPoFgz92+jf9hiGV3djOrSJE/t2Yjl+gOHdP+DcH/ex/kyER98ykpTzOvUUKmrUG1r/VWlM9lNqXWvrrxpNdbRZvfPauiEcdXm3G+XJTCkUS7h9wWvOUUNVENWztPeCmXKDvZdLV7uG5s3q+XT5whTK1UnAqjzumWy+o9dTQHlpgFohpfarooXK8Xpbc6D4VItXqzX5/gP8cb8j5j9SZwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/9eac188d83ffc9a3d6997198dc5d1f00/8ac56/ps-gdgmadison-reviews.webp 240w,
+/static/9eac188d83ffc9a3d6997198dc5d1f00/d3be9/ps-gdgmadison-reviews.webp 480w,
+/static/9eac188d83ffc9a3d6997198dc5d1f00/08b4d/ps-gdgmadison-reviews.webp 750w&quot;
+              sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/9eac188d83ffc9a3d6997198dc5d1f00/8ff5a/ps-gdgmadison-reviews.png 240w,
+/static/9eac188d83ffc9a3d6997198dc5d1f00/e85cb/ps-gdgmadison-reviews.png 480w,
+/static/9eac188d83ffc9a3d6997198dc5d1f00/1d69c/ps-gdgmadison-reviews.png 750w&quot;
+            sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/9eac188d83ffc9a3d6997198dc5d1f00/1d69c/ps-gdgmadison-reviews.png&quot;
+            alt=&quot;Riya&amp;#39;s wisconsin talk reviews&quot;
+            title=&quot;Riya&amp;#39;s wisconsin talk reviews&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Attended Grace Hopper Conference, Orlando, Oct 2-5, 2019&lt;/strong&gt;
+I went to Orlando early (September 30) to have fun and work from there. But by this time, my health declined more. Instead of fun, I stayed in the hotel for 48 hours, eat - sleep - work. That’s pretty much what I did. After that, OH MY GHC! Soooo many in tech 🤩 I was seriously awestruck looking at everyone at GHC.
+I attended some tech sessions - some were great, some not-so-much. Non-tech sessions were RAD! &lt;em&gt;Inspiratonal speakers, motivating quotes everywhere, huge venue!&lt;/em&gt; Ran into many friends I haven’t met since long 😅&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4a9a8761ffda9c782c406ec2a4449e5a/d2602/ps-ghc.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABK2YlVNAT/8QAGhAAAwEAAwAAAAAAAAAAAAAAAAECAwQSIf/aAAgBAQABBQJ8mh76HbcnVUOyfV//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAABBAMBAAAAAAAAAAAAAAAAESExQQECEpH/2gAIAQEABj8CZBuvCNzNIWSf/8QAGxAAAwACAwAAAAAAAAAAAAAAAAERIUFhgZH/2gAIAQEAAT8h1fljD2cG2RQMk5Vwi4pYnYmVT//aAAwDAQACAAMAAAAQWx//xAAYEQACAwAAAAAAAAAAAAAAAAAAEQFBUf/aAAgBAwEBPxBuxRp//8QAGBEAAgMAAAAAAAAAAAAAAAAAABEhQVH/2gAIAQIBAT8QSonD/8QAHRABAAICAgMAAAAAAAAAAAAAAQARIUExUYGhsf/aAAgBAQABPxBW10M/ZYilV479RTgXriZO7GZUNwBtS3zmXS0RIsWPc//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/4a9a8761ffda9c782c406ec2a4449e5a/8ac56/ps-ghc.webp 240w,
+/static/4a9a8761ffda9c782c406ec2a4449e5a/d3be9/ps-ghc.webp 480w,
+/static/4a9a8761ffda9c782c406ec2a4449e5a/e46b2/ps-ghc.webp 960w,
+/static/4a9a8761ffda9c782c406ec2a4449e5a/f992d/ps-ghc.webp 1440w,
+/static/4a9a8761ffda9c782c406ec2a4449e5a/882b9/ps-ghc.webp 1920w,
+/static/4a9a8761ffda9c782c406ec2a4449e5a/b33a3/ps-ghc.webp 4032w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/4a9a8761ffda9c782c406ec2a4449e5a/09b79/ps-ghc.jpg 240w,
+/static/4a9a8761ffda9c782c406ec2a4449e5a/7cc5e/ps-ghc.jpg 480w,
+/static/4a9a8761ffda9c782c406ec2a4449e5a/6a068/ps-ghc.jpg 960w,
+/static/4a9a8761ffda9c782c406ec2a4449e5a/644c5/ps-ghc.jpg 1440w,
+/static/4a9a8761ffda9c782c406ec2a4449e5a/0f98f/ps-ghc.jpg 1920w,
+/static/4a9a8761ffda9c782c406ec2a4449e5a/d2602/ps-ghc.jpg 4032w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/4a9a8761ffda9c782c406ec2a4449e5a/6a068/ps-ghc.jpg&quot;
+            alt=&quot;Quote at ghc&quot;
+            title=&quot;Quote at ghc&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;PS: I visited Disney World for Mickey’s Not-So-Spooky Halloween Party! ❤️&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e310e1f7966d0b90c48e6d9a6aa25a6f/d2602/ps-disney.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABilassig1/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAECAxESE//aAAgBAQABBQKytkoapM6jsyj/xAAYEQACAwAAAAAAAAAAAAAAAAAAAQIRIf/aAAgBAwEBPwGT0s//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwGI/8QAFxABAAMAAAAAAAAAAAAAAAAAEAAhMf/aAAgBAQAGPwJuYf/EABoQAAMAAwEAAAAAAAAAAAAAAAABESExcYH/2gAIAQEAAT8hZljbR2KRQr1fhiBT/9oADAMBAAIAAwAAABBf7//EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAgBAwEBPxBXBE//xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QMEf/xAAcEAEAAwACAwAAAAAAAAAAAAABABExIUFRYcH/2gAIAQEAAT8QebBICWHuaNVY8ypLyBZQ9YmKXxr4+xs3k//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/e310e1f7966d0b90c48e6d9a6aa25a6f/8ac56/ps-disney.webp 240w,
+/static/e310e1f7966d0b90c48e6d9a6aa25a6f/d3be9/ps-disney.webp 480w,
+/static/e310e1f7966d0b90c48e6d9a6aa25a6f/e46b2/ps-disney.webp 960w,
+/static/e310e1f7966d0b90c48e6d9a6aa25a6f/f992d/ps-disney.webp 1440w,
+/static/e310e1f7966d0b90c48e6d9a6aa25a6f/882b9/ps-disney.webp 1920w,
+/static/e310e1f7966d0b90c48e6d9a6aa25a6f/b33a3/ps-disney.webp 4032w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/e310e1f7966d0b90c48e6d9a6aa25a6f/09b79/ps-disney.jpg 240w,
+/static/e310e1f7966d0b90c48e6d9a6aa25a6f/7cc5e/ps-disney.jpg 480w,
+/static/e310e1f7966d0b90c48e6d9a6aa25a6f/6a068/ps-disney.jpg 960w,
+/static/e310e1f7966d0b90c48e6d9a6aa25a6f/644c5/ps-disney.jpg 1440w,
+/static/e310e1f7966d0b90c48e6d9a6aa25a6f/0f98f/ps-disney.jpg 1920w,
+/static/e310e1f7966d0b90c48e6d9a6aa25a6f/d2602/ps-disney.jpg 4032w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/e310e1f7966d0b90c48e6d9a6aa25a6f/6a068/ps-disney.jpg&quot;
+            alt=&quot;Photo from disney&quot;
+            title=&quot;Photo from disney&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. Attended North America Women Techmakers Summit Austin, October 13&lt;/strong&gt;
+&lt;em&gt;I LOVE THIS CONFERENCE!&lt;/em&gt; 💛Last year at WTM Summit in New York, I learned so many things, and which is why I was particularly excited about this one. Speakers, content, presentation skills, food, venue - everything was BEST. Thank you, &lt;a href=&quot;https://twitter.com/WomenTechmakers&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Women Techmakers&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/fde142bcc733ff48f15c9f93c3733f27/9568a/ps-nawtm-summit.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEBQP/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/2gAMAwEAAhADEAAAAaIuqxWUOJr57xaepOZ//8QAHhABAAEDBQEAAAAAAAAAAAAAAQIAAzEEEBIhIjL/2gAIAQEAAQUC1PdxKjhilSxH5vPia8TF1SDOTt//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAVEQEBAAAAAAAAAAAAAAAAAAABIP/aAAgBAgEBPwFj/8QAHhAAAgEDBQAAAAAAAAAAAAAAAAEQAxFxEiExMkH/2gAIAQEABj8C2fkrA8CKek7CFZnMf//EAB0QAQADAAEFAAAAAAAAAAAAAAEAESFBEDFRccH/2gAIAQEAAT8hQFDGDnQoCcN8wJ7kMthVlMvNH2MCs7RQQ3iEUtlz/9oADAMBAAIAAwAAABDj7vP/xAAYEQEAAwEAAAAAAAAAAAAAAAAAARExYf/aAAgBAwEBPxCMQrq3/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERITH/2gAIAQIBAT8QbRs66Q//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAhMUFhcYGR/9oACAEBAAE/EGgGLGznCWQwXeMLe1cLJN5T13fWIaaE58Z9wubcscN3ic/cs2oRL+MXlAd4/hIqmpkap6W4IJc//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/fde142bcc733ff48f15c9f93c3733f27/8ac56/ps-nawtm-summit.webp 240w,
+/static/fde142bcc733ff48f15c9f93c3733f27/d3be9/ps-nawtm-summit.webp 480w,
+/static/fde142bcc733ff48f15c9f93c3733f27/e46b2/ps-nawtm-summit.webp 960w,
+/static/fde142bcc733ff48f15c9f93c3733f27/f992d/ps-nawtm-summit.webp 1440w,
+/static/fde142bcc733ff48f15c9f93c3733f27/882b9/ps-nawtm-summit.webp 1920w,
+/static/fde142bcc733ff48f15c9f93c3733f27/e51ec/ps-nawtm-summit.webp 3024w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/fde142bcc733ff48f15c9f93c3733f27/09b79/ps-nawtm-summit.jpg 240w,
+/static/fde142bcc733ff48f15c9f93c3733f27/7cc5e/ps-nawtm-summit.jpg 480w,
+/static/fde142bcc733ff48f15c9f93c3733f27/6a068/ps-nawtm-summit.jpg 960w,
+/static/fde142bcc733ff48f15c9f93c3733f27/644c5/ps-nawtm-summit.jpg 1440w,
+/static/fde142bcc733ff48f15c9f93c3733f27/0f98f/ps-nawtm-summit.jpg 1920w,
+/static/fde142bcc733ff48f15c9f93c3733f27/9568a/ps-nawtm-summit.jpg 3024w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/fde142bcc733ff48f15c9f93c3733f27/6a068/ps-nawtm-summit.jpg&quot;
+            alt=&quot;Women techmakers banner&quot;
+            title=&quot;Women techmakers banner&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. DevFest DFW, Dallas, October 19, 2019&lt;/strong&gt;
+I totally believe this was the best conference to end my 6 weeks gig. I was a little reluctant to say yes to this one, mainly because I thought 5 weeks were enough. But I loved watching their last DevFest, and speaking here was one of my goals, so I said yes. Also, because &lt;a href=&quot;https://twitter.com/DoesitPew&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Stacy&lt;/a&gt; ❤️I was surprised to see large attendance with minimal promotions! Met many who mentioned they are now thinking about accessibility, which made my heart happy 💜 This was more dramatic and interactive of all. 😄&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/236c25357101b8edb92f4889115f8ad9/394ef/ps-gdgdallas.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFOFc0wf//EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMREiH/2gAIAQEAAQUCa0tO/A2xSBZYacUJn//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/AYf/xAAeEAEAAQIHAAAAAAAAAAAAAAABAAIxAxARISJxof/aAAgBAQAGPwKpDK5BxNycaHXuW9n/xAAcEAEAAgMAAwAAAAAAAAAAAAABABEhMUFRcZH/2gAIAQEAAT8hpDC7p5BKxotlO/rA4Ww5d+Yatx1dRu89Mn//2gAMAwEAAgADAAAAEC8v/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQEA/9oACAEDAQE/EGpqym//xAAYEQACAwAAAAAAAAAAAAAAAAAAEQExUf/aAAgBAgEBPxBLFGH/xAAdEAADAQACAwEAAAAAAAAAAAABESEAMUFRcYGx/9oACAEBAAE/EHedzAIHMxYRoEYCIWsIhAqDJjzxhSBSquI/MXEOxA+d4cJogBL1d//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/236c25357101b8edb92f4889115f8ad9/8ac56/ps-gdgdallas.webp 240w,
+/static/236c25357101b8edb92f4889115f8ad9/d3be9/ps-gdgdallas.webp 480w,
+/static/236c25357101b8edb92f4889115f8ad9/e46b2/ps-gdgdallas.webp 960w,
+/static/236c25357101b8edb92f4889115f8ad9/f992d/ps-gdgdallas.webp 1440w,
+/static/236c25357101b8edb92f4889115f8ad9/882b9/ps-gdgdallas.webp 1920w,
+/static/236c25357101b8edb92f4889115f8ad9/8f99d/ps-gdgdallas.webp 3088w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/236c25357101b8edb92f4889115f8ad9/09b79/ps-gdgdallas.jpg 240w,
+/static/236c25357101b8edb92f4889115f8ad9/7cc5e/ps-gdgdallas.jpg 480w,
+/static/236c25357101b8edb92f4889115f8ad9/6a068/ps-gdgdallas.jpg 960w,
+/static/236c25357101b8edb92f4889115f8ad9/644c5/ps-gdgdallas.jpg 1440w,
+/static/236c25357101b8edb92f4889115f8ad9/0f98f/ps-gdgdallas.jpg 1920w,
+/static/236c25357101b8edb92f4889115f8ad9/394ef/ps-gdgdallas.jpg 3088w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/236c25357101b8edb92f4889115f8ad9/6a068/ps-gdgdallas.jpg&quot;
+            alt=&quot;Riya speaking in dallas&quot;
+            title=&quot;Riya speaking in dallas&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+(Yes, I’m bad at taking selfies)&lt;/p&gt;
+&lt;h2 id=&quot;final-and-most-important-thoughts&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#final-and-most-important-thoughts&quot; aria-label=&quot;final and most important thoughts permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Final and most important thoughts..&lt;/h2&gt;
+&lt;p&gt;I’m very grateful that I got the opportunity to be able to travel and speak and attend conferences. A million thanks to my team at Quizlet for GHC, for understanding my goals and passion for public speaking. Thanks to my colleagues, who helped review my slides. &lt;em&gt;Special shoutout to my manager for being really very supportive.&lt;/em&gt; 😇&lt;/p&gt;
+&lt;p&gt;Every time I went to a different place, I stepped outside my comfort zone. I belong to a liberal family from a rural - conservative place. Even 20yo Riya would have never imagined that she will travel alone to many places in 5 years. 🙃 Visited University of Texas at Dallas and Auburn University. 🏫&lt;/p&gt;
+&lt;h3 id=&quot;while-everything-looks-super-fun-here-are-some-extras&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#while-everything-looks-super-fun-here-are-some-extras&quot; aria-label=&quot;while everything looks super fun here are some extras permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;While everything looks super fun, here are some extras..&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Excessive travel without any breaks. This isn’t easy. I will never recommend that. 🙅‍♀️&lt;/li&gt;
+&lt;li&gt;Health problems - I suffered (and still am suffering) from severe back pain mainly because I’ve not been able to rest appropriately. My schedule is as weird as it could be. Traveling to different timezones also affected my sleeping times.😔 Lost my voice multiple times in between and have sore throat now.&lt;/li&gt;
+&lt;li&gt;Personal life - It’s been 6 weeks I have not been able to talk to friends and family much.&lt;/li&gt;
+&lt;li&gt;I didn’t get enough &lt;em&gt;me&lt;/em&gt; time to recharge.🙁&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;you-ask-whats-next&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#you-ask-whats-next&quot; aria-label=&quot;you ask whats next permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;You ask, what’s next?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Am I going to continue public speaking?&lt;/strong&gt; 🤔 HELL YES! I enjoy this. I LOVE THIS.
+However, taking health into consideration, I’ve decided a few things for the next few months:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Saying 🙅‍♀️ for all the speaking engagements in the USA. I do have some open discussions for talks in other parts of the world for Nov’19-Feb’20, which I’m going to carefully decide after reevaluating my health.&lt;/li&gt;
+&lt;li&gt;Limited presence and support for the monthly meetups I run for the communities I’m associated with.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;ok-really-final-thoughts&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#ok-really-final-thoughts&quot; aria-label=&quot;ok really final thoughts permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Ok really final thoughts..&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;This was my first year of public speaking. I did 20+ talks at meetups, conferences, internally, everywhere!!!&lt;/strong&gt; And I’m thrilled I did this. 🥳 While in the last 2 months, all of my sessions were on accessibility, I also gave talks on Inclusion &amp;#x26; Diversity, Actions on Google Assistant, how my life changed because of communities, public speaking, and few more topics earlier this year. You can find more &lt;a href=&quot;https://docs.google.com/document/d/1cfCkezConyC3MQeRRoFIaVqNvozqAUMkRwTf00vwnQE/edit?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tips if you are looking to get into public speaking:&lt;/em&gt;
+Reach out to your local meetups and speak there. Once you’ve enough confidence, apply to slightly bigger events, then conferences. Do as many dry-runs of your talk as possible. Have someone review your slides. These things helped me, and I hope will help you too.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If you are looking for speaking opportunities, or need help with getting into public speaking, or wanna talk anything about public speaking or randomly anything, feel free to reach out to me via twitter &lt;a href=&quot;http://twitter.com/ReeyahSDasoriya&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;@ReeyahSDasoriya&lt;/a&gt; 😀&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Front End Web Developer Nanodegree by Udacity]]></title><description><![CDATA[How I hoped that I don't get Grow with Google scholarship and still got it. All the pros of why you should do FEND Nanodegree!]]></description><link>https://lumen.netlify.com/posts/fend-nanodegree-by-udacity</link><guid isPermaLink="false">https://lumen.netlify.com/posts/fend-nanodegree-by-udacity</guid><pubDate>Tue, 23 Oct 2018 22:40:32 GMT</pubDate><content:encoded>&lt;div style=&quot;text-align: justify&quot;&gt;
+&lt;p&gt;Ever hoped that you shouldn’t get a scholarship? Well.. on January 10, 2018, I received the below mail:&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 65.83333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOElEQVQoz5VSTUsDMRDd/38XhF49C14UL15sBRH0INhKP7buh93sbrp2m/1IMkl8iyDYrrANj5CZvDczmYwnhOCcf+2wtmWZV5Wo60ZKZa0jYzRhM8ZiuV/AqZTSWntaUys1zkqR0mBbIqs0laJq4CdrrIN5AAktkYewvXeMpTnnaZpg70IfcTSZf8XLxTz5jMttVmRJg9rIDBJLRc6aaZiejVejx+B2yvBQqYZlbpV2zj34xcVT9BwW5+OPTqxPEU+mydVk4Uf56OYN5tDM4OFn3v348u71ejK7f1kZotMaFkdhEgc8Y5Uo2hbVmKFigDGW5XwvRNM2vZxOjAlCnmO0UmFK9tBK9VPLAeD00AzbB2Sr6nq3F92U2X6OV5TVItj4EVv9BRo2W67n63DmxyAc3C4jFmzyb+Uw7BgNt4jwAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/b40bc79d8a4691927e4c05c10759c849/8ac56/udacity-invitation.webp 240w,
+/static/b40bc79d8a4691927e4c05c10759c849/d3be9/udacity-invitation.webp 480w,
+/static/b40bc79d8a4691927e4c05c10759c849/e46b2/udacity-invitation.webp 960w,
+/static/b40bc79d8a4691927e4c05c10759c849/f992d/udacity-invitation.webp 1440w,
+/static/b40bc79d8a4691927e4c05c10759c849/fad48/udacity-invitation.webp 1600w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/b40bc79d8a4691927e4c05c10759c849/8ff5a/udacity-invitation.png 240w,
+/static/b40bc79d8a4691927e4c05c10759c849/e85cb/udacity-invitation.png 480w,
+/static/b40bc79d8a4691927e4c05c10759c849/d9199/udacity-invitation.png 960w,
+/static/b40bc79d8a4691927e4c05c10759c849/07a9c/udacity-invitation.png 1440w,
+/static/b40bc79d8a4691927e4c05c10759c849/29007/udacity-invitation.png 1600w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/b40bc79d8a4691927e4c05c10759c849/d9199/udacity-invitation.png&quot;
+            alt=&quot;Udacity&amp;#39;s invitation email for grow with google challenge&quot;
+            title=&quot;Udacity&amp;#39;s invitation email for grow with google challenge&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;My first question: &lt;strong&gt;WHY&lt;/strong&gt;? followed by &lt;strong&gt;when did I apply for that? How? What is this for?&lt;/strong&gt; Hahaha, I know. I literally spent some time trying to figure out how is this possible. Is this a scam?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Precap:&lt;/strong&gt; When almost* everyone spends their New Year’s eve out with friends or family, in the pub or at a restaurant, I was sitting at home in pajamas crying, in &lt;em&gt;depression&lt;/em&gt;, and in a very bad shape. I did not live in 2017. I literally survived. Every month sucked. In the end, something very unfortunate happened on December 27, 2017, and I lost the hope. All the ‘uncertainties’ about future hit me up. It was very bad. It was very hard. My first lesson: &lt;strong&gt;“One single thing cannot define my life or my future. I know how to figure out stuff and rock-on!”&lt;/strong&gt;. I remember thinking about making sure the rest of the days I’ve in the United States of America are very well spent. I made a pact that I’ll travel once every month, that I’ll work towards making my career, that I’ll do every impossible thing I can, in 2018. Not going to waste another year of this drama called ‘life’. &lt;em&gt;Maybe (I still think), that time I applied for a Grow with Google scholarship for Udacity.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;So, later, I read &lt;em&gt;T&amp;#x26;Cs for getting a scholarship&lt;/em&gt;: You should finish the coding challenge, be active on community forums, You should be active on slack, help others, and what not. Since I was still coping from depression, and trying to get out of a bad phase, I completed all the coding challenge in two days, a week apart. I couldn’t do anything else. &lt;strong&gt;Seriously, nothing else.&lt;/strong&gt; In February, I finished my Java certification and realized I cannot spend time on a Nanodegree because I’m still hopeless and unmotivated.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We all wish for good things to happen to us. Getting a scholarship? Oh hell YES! I, obviously, wished for the opposite. 😉&lt;/strong&gt; I believe in God. I always prayed that I hope I don’t get the scholarship. I don’t deserve that. I couldn’t stay active or help anyone. I struggled taking out time to work on the challenge. I don’t know if I will be able to work on any of the projects.&lt;/p&gt;
+&lt;p&gt;I had no idea when the scholarship challenge end date was. However one late night, I got another mail from Udacity.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsTAAALEwEAmpwYAAABA0lEQVQoz5WSSXKDMBBFuf/lbBwk9iGAhQBhNCBag9M4tisBFqHqLSh+P1DDT+w8m8mC8z5E7x+E6HwEAGW00tMMHlPnwxsAZ2dwzichRMxeuJ8LjKSS2iDKGPNr4A8r2b9k4C0Xw9j1rRDt8rbNDN7cl/EIZVV8FkjJGMedDskenbKqeyFu4/he578ymsVXeW044x1ucUQGV9XXsqrQrxnHn3FMZg3nbdeLYRhuh4/NmhZlKaXS5vAHE2JQSuOyPgRkX8ZmYSW2YGbsrLF88KzNiqUkMd6XYm4AF6SeRoXdtY9HrQdCvCeE5jTfISPklF5O5zS9nDPygWMZoU8wozmh9Bv/7u48Iy5EugAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/1165c42ac271db5335b6abef2b96df5e/8ac56/udacity-acceptance.webp 240w,
+/static/1165c42ac271db5335b6abef2b96df5e/d3be9/udacity-acceptance.webp 480w,
+/static/1165c42ac271db5335b6abef2b96df5e/e46b2/udacity-acceptance.webp 960w,
+/static/1165c42ac271db5335b6abef2b96df5e/f992d/udacity-acceptance.webp 1440w,
+/static/1165c42ac271db5335b6abef2b96df5e/fad48/udacity-acceptance.webp 1600w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/1165c42ac271db5335b6abef2b96df5e/8ff5a/udacity-acceptance.png 240w,
+/static/1165c42ac271db5335b6abef2b96df5e/e85cb/udacity-acceptance.png 480w,
+/static/1165c42ac271db5335b6abef2b96df5e/d9199/udacity-acceptance.png 960w,
+/static/1165c42ac271db5335b6abef2b96df5e/07a9c/udacity-acceptance.png 1440w,
+/static/1165c42ac271db5335b6abef2b96df5e/29007/udacity-acceptance.png 1600w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/1165c42ac271db5335b6abef2b96df5e/d9199/udacity-acceptance.png&quot;
+            alt=&quot;Udacity&amp;#39;s acceptance email for grow with google scholarship&quot;
+            title=&quot;Udacity&amp;#39;s acceptance email for grow with google scholarship&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The mail changed my next 6 months. I was &lt;em&gt;SELECTED&lt;/em&gt; for the scholarship. I couldn’t believe that. I thought I was the least deserved person. &lt;strong&gt;Why me?!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Well, the only thing I knew that night was &lt;strong&gt;I can’t quit&lt;/strong&gt;. I can’t afford to stop there. I was selected, that means I do deserve that.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 109.58333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAWABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQDBf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABp0klzdVOnPYSUD//xAAbEAEBAAIDAQAAAAAAAAAAAAACAQADEBESMf/aAAgBAQABBQI83Z5O5pYb1CJYvlz/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAbEAACAgMBAAAAAAAAAAAAAAAAARARAiExQf/aAAgBAQAGPwKbQr1izpXk/wD/xAAaEAEAAwEBAQAAAAAAAAAAAAABABExIUFh/9oACAEBAAE/Ib3yNmpKhOwxQ4CFbKUp8g2usgOPIO8Z/9oADAMBAAIAAwAAABBf10H/xAAYEQACAwAAAAAAAAAAAAAAAAABEQAQIf/aAAgBAwEBPxAaVFf/xAAWEQEBAQAAAAAAAAAAAAAAAAAQARH/2gAIAQIBAT8Qph//xAAcEAEAAwEBAAMAAAAAAAAAAAABABEhMVFBcaH/2gAIAQEAAT8QsVg+yIbGHVyaBE2GUBDNmWa/cGEpQdds+GJGxsoNjirRwyoo8Dzyf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/b255bd459d3462768d4f24deb49f5e84/8ac56/udacity-no-give-up.webp 240w,
+/static/b255bd459d3462768d4f24deb49f5e84/d3be9/udacity-no-give-up.webp 480w,
+/static/b255bd459d3462768d4f24deb49f5e84/e46b2/udacity-no-give-up.webp 960w,
+/static/b255bd459d3462768d4f24deb49f5e84/260c2/udacity-no-give-up.webp 1080w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/b255bd459d3462768d4f24deb49f5e84/09b79/udacity-no-give-up.jpg 240w,
+/static/b255bd459d3462768d4f24deb49f5e84/7cc5e/udacity-no-give-up.jpg 480w,
+/static/b255bd459d3462768d4f24deb49f5e84/6a068/udacity-no-give-up.jpg 960w,
+/static/b255bd459d3462768d4f24deb49f5e84/47311/udacity-no-give-up.jpg 1080w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/b255bd459d3462768d4f24deb49f5e84/6a068/udacity-no-give-up.jpg&quot;
+            alt=&quot;Photo from Ara the Star Engineer, by Komal Singh about not giving up&quot;
+            title=&quot;Photo from Ara the Star Engineer, by Komal Singh about not giving up&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Credits: Ara the Star Engineer, by Komal Singh&lt;/p&gt;
+&lt;p&gt;My actual challenge started here. I changed all my plans for the next few months. All I knew was I needed a new plan. A plan which has time for nanodegree in that. One of my goal this year was to do #100daysofcode challenge. And my plan..was to mix it up. 😉&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;IT WASN’T EASY!!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;That’s how it started…&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/D1?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#D1&lt;/a&gt; And so I restarted &lt;a href=&quot;https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#100DaysOfCode&lt;/a&gt; challenge, with FrontEnd Web Dev Nanodegree by &lt;a href=&quot;https://twitter.com/udacity?ref_src=twsrc%5Etfw&quot;&gt;@udacity&lt;/a&gt;! Excited and nervous at same time. Today, I completed basic HTML quizzes and worked on creating a mockup &lt;a href=&quot;https://t.co/WbxCSAo005&quot;&gt;https://t.co/WbxCSAo005&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/GoogelUdacityScholar?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#GoogelUdacityScholar&lt;/a&gt;&lt;/p&gt;&amp;mdash; Riya Dashoriya (@ReeyahSDasoriya) &lt;a href=&quot;https://twitter.com/ReeyahSDasoriya/status/990775448362614784?ref_src=twsrc%5Etfw&quot;&gt;April 30, 2018&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;p&gt;Then…&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/D4?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#D4&lt;/a&gt;-&lt;a href=&quot;https://twitter.com/hashtag/D10?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#D10&lt;/a&gt; Responsive CSS, viewport, flex box, css optimization, and Project1: Build a portfolio site for Udacity&amp;#39;s Front End Web Developer Nanodegree! Tomorrow starts JavaScript :) &lt;a href=&quot;https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#100DaysOfCode&lt;/a&gt; &lt;a href=&quot;https://t.co/st9uuhSEn5&quot;&gt;pic.twitter.com/st9uuhSEn5&lt;/a&gt;&lt;/p&gt;&amp;mdash; Riya Dashoriya (@ReeyahSDasoriya) &lt;a href=&quot;https://twitter.com/ReeyahSDasoriya/status/994015756877611008?ref_src=twsrc%5Etfw&quot;&gt;May 9, 2018&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;p&gt;And…&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/D11?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#D11&lt;/a&gt; Basics of Livescript aka JavaScript: loops, conditionals, arrays, objects, functions. Hurraaaaah &lt;a href=&quot;https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#100DaysOfCode&lt;/a&gt; &lt;a href=&quot;https://t.co/SyaplU37cx&quot;&gt;pic.twitter.com/SyaplU37cx&lt;/a&gt;&lt;/p&gt;&amp;mdash; Riya Dashoriya (@ReeyahSDasoriya) &lt;a href=&quot;https://twitter.com/ReeyahSDasoriya/status/994428157292830720?ref_src=twsrc%5Etfw&quot;&gt;May 10, 2018&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;p&gt;(in progress…)&lt;/p&gt;
+&lt;p&gt;(in progress…)&lt;/p&gt;
+&lt;p&gt;This too happened.. I’m very grateful to Udacity Front-End Web Developer Nanodegree Support group on Facebook for their inspiring and motivating words when I was feel exhausted. ❤️&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 149.58333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAeCAIAAACjcKk8AAAACXBIWXMAAAsTAAALEwEAmpwYAAAEgElEQVQ4y31V27KiRhT14/OUvCQv85K3fEMqqZo5c7wrioIiKoiACoqKQENzFdEs8JxkzlRNujbUpul9W3t1d40EYZAUQZh6fuj5kUuoQ2hAoyhO/kfCKPZIULMd76dffm/1xtu9q+1syw42Jjwkj8fjfn/8aNxuN0qjGhx8+ftPa79LkiRL00dlVBRFfrvleZ6maV6N6zW74smyJElvRYFVcZzWPI8Y5mGlrEVxLszmU2HGT4SlJHMcLwjieMxPprPJRBBmojAVxhwvigvDMD3Pi5O05npElmGrKspaWsowk1crVdU0fbPd7Pb7AxTTNHVd13RUtT7vF/rGsCyrNPYI1fStVi3G0u3WgBJG0a1Ku3rhfUPOeKOa/JqWmec3wFY7usnmhBqKH6PzYVAaEuIT30dHamEcYwoI3e93GkaoIknT+3NUkxiIGVAKA48QpPD0UgKGjuXVGnzDDIuy7PpdNPyN45iGIcKiiOdkmfbBMD79+mlnOZK6l9TDSrfk9Xa11mRFW6v6StEUVV/K683OBDSyohqHo0uC0h0AQyobQdgah96A70OGPMfPGIZtdwc9ZtQbjFhuijczHA9H/HDEMUNO2xgo5C1t5GCdzu0ew4752VxiuRkMuMkMgk/YjHmBn87Y8YTjpgtJJmHZizLy09h1PVGYSytN3VhLxTQOtkt8z6fgn+v5jucjVegOCZYrx97ui8e9jIy6S0jy/BFEDokJtkQUBTSE4yeMeCAAvsT+8TjbSeyS/9CGhu0xESV1e5qvDIgom7JqSoq6lJW1vllIoJ8O5BayomhalGbvxlVkEIcGQafPvjY6jVbva6Pz+aXRG7Bf6612l6k3u/VG+/NL/eW12e2zPo2qVr2njXHNbyU8Y74EpkRLqBQBCPNTscRsMgPma20bp1nV+W+MwWA0iR1PsbTbH2IdjKfCvD/kegyHRsALGtLpD2zH/T4yqMMMR53eoNXpIdt6s9NodhttZsC050J3LqnzpSyt1rwgWafLG8Pe0K62he0Eh5N3OLkXx41xDmQZ3F+zuMije8n/cpFp323v+hb5iXYWR5Q4NL66JPb8OECvohh+0bAwzispHWGSVL8+tIrY540858X1a2tU7/KAtNnpA22QtMVMO4NShtwUtUBUffch7SdgwGfIjnDuAFugBcwqSoPPI3YE5o+4iQhLHLjYwt+iXdJpZx4V3VzrJg4TbOzj2T7bF9S/t472xT1YpzAKnSCXdum/NcP4fivu2fVWVZXRKE3SLK/YiKeoSFpUJEV2QDCgyTXPy7SfNcO9IC4DGiDS6XzxgwhOK4kpJIyhE5/il3U8H6zj8XQpz20kNm5+CbCHSOiQ8OJRXB2AlPjYRpj0Sz3AZPCcxOHl0/eaTfPwx28/S7LaYhedgdDoCV2G6zPsgOWa7X6rw/Qq5ME56K1OH5SXV9r9ifYzbWzt+Hi0zt754jmui8MsK++IHOcZ1JIuVxSJ2yNbqvQoG+83BiH9+l/YUmmU0DAJ4xQuYVpJ9q6Ulw0geza1qK6bKEr+AZl6aDohQDsWAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/5467e64f034cb225cb3f40e5d715ed38/8ac56/udacity-facebook-motivation.webp 240w,
+/static/5467e64f034cb225cb3f40e5d715ed38/d3be9/udacity-facebook-motivation.webp 480w,
+/static/5467e64f034cb225cb3f40e5d715ed38/e46b2/udacity-facebook-motivation.webp 960w,
+/static/5467e64f034cb225cb3f40e5d715ed38/8c521/udacity-facebook-motivation.webp 1046w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/5467e64f034cb225cb3f40e5d715ed38/8ff5a/udacity-facebook-motivation.png 240w,
+/static/5467e64f034cb225cb3f40e5d715ed38/e85cb/udacity-facebook-motivation.png 480w,
+/static/5467e64f034cb225cb3f40e5d715ed38/d9199/udacity-facebook-motivation.png 960w,
+/static/5467e64f034cb225cb3f40e5d715ed38/1c1a4/udacity-facebook-motivation.png 1046w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/5467e64f034cb225cb3f40e5d715ed38/d9199/udacity-facebook-motivation.png&quot;
+            alt=&quot;Photo of facebook post when i felt demotivated&quot;
+            title=&quot;Photo of facebook post when i felt demotivated&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Credits: Facebook Udacity Front-End Web Developer Nanodegree Support group&lt;/p&gt;
+&lt;p&gt;(in progress…)&lt;/p&gt;
+&lt;p&gt;(in progress…)&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Developing &lt;a href=&quot;https://twitter.com/reactjs?ref_src=twsrc%5Etfw&quot;&gt;@reactjs&lt;/a&gt; app from scratch for the first time. Oh my!! It’s very difficult for me to not use &lt;a href=&quot;https://twitter.com/vuejs?ref_src=twsrc%5Etfw&quot;&gt;@vuejs&lt;/a&gt; in between. 🤦🏻‍♀️ &lt;br&gt;One last project before I graduate 👩🏻‍🎓 with a &lt;a href=&quot;https://twitter.com/udacity?ref_src=twsrc%5Etfw&quot;&gt;@udacity&lt;/a&gt; Front End Nanodegree (Thanks to Grow With Google Scholarship) 😀&lt;/p&gt;&amp;mdash; Riya Dashoriya (@ReeyahSDasoriya) &lt;a href=&quot;https://twitter.com/ReeyahSDasoriya/status/1053827236732723200?ref_src=twsrc%5Etfw&quot;&gt;October 21, 2018&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;strong&gt;END!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I struggled to take out time and work on projects. It was tiring. It was difficult. With a full-time job, plans to travel every month, organizing events for Google Developers Group Salt Lake, and then this! This was one hectic year, full of plans and their execution. I’m glad all these things helped me come out of depression. I’m better now. :)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I did it.&lt;/strong&gt; I finally graduated with a Front End Web Developer Nanodegree TODAY.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 45.416666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsTAAALEwEAmpwYAAACG0lEQVQozw3Oa0/aYACG4f5UExUVrcqQIQcZIpPEMZ1RIoagbK0OA2ObHBLQUqS0Woo4h3ExiwsepjJAAxV7et92TZ6v15MbGfqc7MN2+yPJgXBqcD0zHMygwbRxOYsu5cbf7U0tEPYF0jZPOr0HLg818+bA7SzN2ei3VsZjOkQGKLKPyveTheF9Cs2W0BQzljiciB2ao+XJyFH+7P62I/1uduvtl6u2WG8J103xuiE+dORU7B4xEkR/ljSkC8YkZU8zk3F6Yps2YbRlkzWt0eyvhqJpqqoKQJUAkBRFAaoMREED2cQDMpol0FzRkmUsKXZ6t+xIsPYdzo5z9jD3apVhz/8JsqyI0qMAunznmecBgJoKRQ3mYg0EzRRGU6QhfjASLU5s0UasYAyVrOGydb36epE5qjVECFQIIQC93vOL8KIAoKmaoOPoPTL+nRz5VjJsk4aNvcFNYjBMDIUK08GKI1C1+o+5n009GwKlpztRkmVBkhUdixrY37pGpr4WDVFqo3TBnd9QZ7dHZ3fp4h97oDqzfOL0HbOnbV6S9GBZVSWoDyr6E4A9Tc3jLcT8hR7bKpkwxoZVXJucO1x2BiqupYr7/enM3I9ytdURxVZXenxW2rzc7AqNp06r1eMhLESaiC3GmHHW+qlsC3GOYMW9znlWjr2LJ15/bd5XW/1w8XHtMrJyiS3Wcf8V7q/jvvrO7E189g5D//4HkeuS/T+nT6gAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/dc3c0bdddf9b11451324d30c98faa398/8ac56/udacity-certificate.webp 240w,
+/static/dc3c0bdddf9b11451324d30c98faa398/d3be9/udacity-certificate.webp 480w,
+/static/dc3c0bdddf9b11451324d30c98faa398/e46b2/udacity-certificate.webp 960w,
+/static/dc3c0bdddf9b11451324d30c98faa398/f992d/udacity-certificate.webp 1440w,
+/static/dc3c0bdddf9b11451324d30c98faa398/fad48/udacity-certificate.webp 1600w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/dc3c0bdddf9b11451324d30c98faa398/8ff5a/udacity-certificate.png 240w,
+/static/dc3c0bdddf9b11451324d30c98faa398/e85cb/udacity-certificate.png 480w,
+/static/dc3c0bdddf9b11451324d30c98faa398/d9199/udacity-certificate.png 960w,
+/static/dc3c0bdddf9b11451324d30c98faa398/07a9c/udacity-certificate.png 1440w,
+/static/dc3c0bdddf9b11451324d30c98faa398/29007/udacity-certificate.png 1600w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/dc3c0bdddf9b11451324d30c98faa398/d9199/udacity-certificate.png&quot;
+            alt=&quot;Photo of Front End Web Developer Nanodegree Certificate&quot;
+            title=&quot;Photo of Front End Web Developer Nanodegree Certificate&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Frankly speaking, I learned a lot working on projects. I learned many new things. ReactJS, ServiceWorkers, Accessibility, aria-labels, Flexbox, Angular, Jasmine, ES6 and much more. I don’t know if ever I’ll use that in the real world, but that was one hell of an experience. I’m glad this happened.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To any future Grow with Google FEND students:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;FEND can be completed in a month or two, if done seriously and regularly. You will end up spending 3-4 hours a day. The projects on average took me 6 hours because I skipped some videos sometimes (not recommended). Don’t quit. It will be fine. Once you accomplish this goal, there will be a different feeling. You’ll be more proud of yourself.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Be active on Slack and community forums. That will help you. Its amazing to see how different people have different opinions about writing a single line of code. This will help you to broaden your horizons. Use Udacity’s career services. We are no experts. They have the best people, and their suggestions helped me to improve my Resume, LinkedIn, GitHub and Cover Letter, not to mention that that boosted my confidence in applying for a job.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Grow with Google scholarship is a privilege. Don’t let it go waste.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Oh..&lt;strong&gt;You ask my next goal?&lt;/strong&gt; Well..fix up all the projects on Github: &lt;a href=&quot;https://github.com/riyadashoriya/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://github.com/riyadashoriya/&lt;/a&gt; and have a rocking Google Developers Group DevFest 2018 on November 17, then take a break and visit family in India! :)&lt;/p&gt;
+&lt;p&gt;Over and out,&lt;/p&gt;
+&lt;p&gt;Riya&lt;/p&gt;
+&lt;p&gt;PS: I still haven’t figured out if I like Front End more or backend. I don’t want to know right now. I’m not ready for that. I love coding, be it anything, everything. I love to solve problems.&lt;/p&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Preparing for OCAJP]]></title><description><![CDATA[What made me go for Oracle Certification for Java Associate programmer and tips on how to prepare for the exam.]]></description><link>https://lumen.netlify.com/posts/prep-for-ocajp</link><guid isPermaLink="false">https://lumen.netlify.com/posts/prep-for-ocajp</guid><pubDate>Sun, 18 Mar 2018 23:46:37 GMT</pubDate><content:encoded>&lt;div style=&quot;text-align: justify&quot;&gt;
+I never took a break from my studies so I felt bored after graduating with a Masters degree in August 2016. Even after working full-time and juggling between deadlines, I missed studying. On June 15, 2017, I told my brother about how much I miss studying, and it looks like I&apos;m not doing anything in my life. He suggested me to look for some certification courses.
+&lt;p&gt;After surfing on Google, I read about Oracle Certifications. On June 19, 2017, I went to the office and told my manager about my plan to give the OCAJP certification exam. She excitedly said it is great, and that I should go for this. I wanted to confirm the value of this certification, so after doing some rigorous research on the internet, I thought to give it a try.&lt;/p&gt;
+&lt;p&gt;I got to know that people really prepare a lot for this exam. I thought I’ve Saturdays and Sundays to study. But honestly speaking, life sucks. I tried, but due to unforeseen circumstances every month (in 2017), I couldn’t focus much on the preparation.&lt;/p&gt;
+&lt;p&gt;January 2018 passed fighting with depression. February started. Colleagues were talking about the long weekend break and that they are taking that week off.
+On February 08, 2018, I decided that I’m going to do the same. Take two more days off, and give the exam on Thursday, Feb 22, 2018. I asked two of my friends (who are also OCAJP certified) about how they prepared. They suggested a preparation of at least two months is required to excel.&lt;/p&gt;
+&lt;p&gt;That made me think if I’m doing the dumbest mistake of my life. People study for months, and I’m thinking that studying for just 5 days will help me get this certification! (Seriously, no kidding)&lt;/p&gt;
+&lt;p&gt;After coming late to the home on February 16, 2018, the Friday, I thought I’ll start studying next day morning. I woke up on Saturday, glanced at the books and first thought: Oh fuck! This isn’t easy.&lt;/p&gt;
+&lt;p&gt;But then, after blocking myself from the world for 5 days- 3 books, and few mock tests and listening to Wrong Direction (Passenger) on loop, I successfully cleared the exam :)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;I am now an Oracle Certified Java SE 8 Associate Programmer!!!&lt;/em&gt;&lt;/strong&gt; View my badge &lt;a href=&quot;https://www.youracclaim.com/badges/3b44ec95-e4a8-41a0-97c0-04e7fef5c79e/linked_in_profile&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 352px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/416e7684c70ec34c254dfd5ccf10a610/ba1c3/ocajp-badge.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEYklEQVQ4y31U/09TVxS/kGXbH7Wfli3RZcuyL5nJsizZCONbgUJfvxdeSy30Oy1t+aZMismkYCKECi6gJWQ6JWKZCkVQjJbCylBHDOzR9+49O/c9qm5Z9pLz3nn3nvPJOZ/zhVhsjv1oLH6U6OuXXG6PZLHYJFubKAmiS2pGXWjSS/bqGsnxQ+2hqblls9FiS+m6fF/Hp2feafKHiN4bqHTaHAR9iB2FeP3Bo3x+C+7dvw9nBs+CSXQBgkKitg4yFius9/VDYWxMlbW+PpjDs1htPRgF07ohGP7y22A3gXcJEZ2uCofoIqTT65e2tgqwePMW6x48yzqqa1hWFBlbWmJAKQOAN4UCYzJks/LtdhE89TowdPoCJyIxAumPiJtHiGFKkUgPRM4MsV5dE+ydOwfwyhuFUqCKwoWhzvCMMdUClBfDSSWMmQhdvsA3viBp9HRVEqvVLpmcHeCsqmZlMAVdGIJwV/Yv4S+8Y4oGS18kk0onRmrqjn7RjOlzMnkhICs6WRkMwwLGhYOU9fJ/GZiDUqq68PRNRvODmSf5twmvJi+AyhlPVTP6z6d8x46TZuX0kVNeqJZQ9ynCWyNjtqj3SqEAytQU0KtXQRkZAeX8eaC5HCjpNNDlZVCuXAF67ZrG79ISKENDTFlb47/yLGLo7e0/Ed5n64leDfDGDWAXL0Lp0iUoCQIoPT1Ao1E46uiAUn090EwGlOFhUMbHQcYz2WgEDELFzyGGtcXwgPCmLaTGNEAsxOH6OsCzZ1pKBwcg7e5q+aKubG4CKxaBPX4MDG3Y9jbQgwO1pbZGUyDWNfxJHDW1h/kLo6p/bnWVzWBKqYkJmMPv1OXL8GMyCaOpFExg2isPH6rYb7JMNUJZvgyI4/QoF0+od/v7+yz/9Cms4NQUMZJt5LSwhVN09y5sYOR/HR5qIOWW4j2qNT9dRQxrq5AjjVb7hZ9NZm4n//H8OUun0yyHhbhz5w5sbGzAysoKLGNBstksZJDDvb2915XGF290RJU5ht4hjhCd1/9VpKZWLf3vL19CZm6OTU5OAgLDwsICzM7OwvT0NMzPz8MEUrGzs1NOFZgsa622uChHsW1au6OfkfFbN98SjJbVX212tUnLLQf/8zCt+dmxscx9TWbrPdQrSXMgRIRg+GN3QyMUBwbU8S2hg1IqabOr8fRK+OTxyI7B6O7AIHXrGsEaS5xsDUcIMXj9lVWhCBG8fqe/rgGK/SqorA6GOhz0n/J688jF/n7GfUyBUNt3uBub3J5K4jJbyCe9A+RUT4KDtnfgxvkFd55y/boCpZJ8TAM9FvWM33EbN9oimP1z3DTvGUwVsS4vIVZHO3HiHvs0FCVVgTAxR2MfGi22pTCSnDYI8FsoDI+Gk6oso87P+B3a3LbFez/4HiN732ipCPoC5HSXD7cNAtrbncRjs5NW3GctwTDhT0s0drK5TezDLbLo0DU94cJ1fZuzt7UnfoLbcM70mGYcIzvt9RG3p5P8DeMcxzGrMIZhAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/416e7684c70ec34c254dfd5ccf10a610/8ac56/ocajp-badge.webp 240w,
+/static/416e7684c70ec34c254dfd5ccf10a610/edd59/ocajp-badge.webp 352w&quot;
+              sizes=&quot;(max-width: 352px) 100vw, 352px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/416e7684c70ec34c254dfd5ccf10a610/8ff5a/ocajp-badge.png 240w,
+/static/416e7684c70ec34c254dfd5ccf10a610/ba1c3/ocajp-badge.png 352w&quot;
+            sizes=&quot;(max-width: 352px) 100vw, 352px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/416e7684c70ec34c254dfd5ccf10a610/ba1c3/ocajp-badge.png&quot;
+            alt=&quot;Oracle Certified Associate Java Programmer Badge&quot;
+            title=&quot;Oracle Certified Associate Java Programmer Badge&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Here is a list of the preparation material which I followed:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OCA/OCP Java SE 7 Programmer by Kathy Sierra and Bert Bates (I’d highly recommend starting with this book)&lt;/li&gt;
+&lt;li&gt;OCA Java SE8 Programmer Study Guide by Mala Gupta&lt;/li&gt;
+&lt;li&gt;OCA Java SE8 Programmer Study Guide by Jeanne Boyarsky and Scott Selikoff&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Mock tests:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OCA Java SE8 Programmer Practice Tests by Jeanne Boyarsky and Scott Selikoff&lt;/li&gt;
+&lt;li&gt;Whizlabs mocks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I would like to thank my workplace and especially my manager Mary Jane for supporting me in doing this. Solutionreach is an amazing place to work!
+If you are reading this, I still believe that studying for 5 days and then going for exam was the dumbest decision I ever made. I’d not recommend that. Good luck!&lt;/p&gt;
+&lt;/div&gt;</content:encoded></item></channel></rss>
